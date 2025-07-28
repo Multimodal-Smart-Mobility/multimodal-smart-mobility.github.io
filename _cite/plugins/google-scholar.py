@@ -10,7 +10,7 @@ def main(entry):
     """
 
     # get api key (serp api key to access google scholar)
-    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "")
+    api_key = "83093819a5a617baf0cac5eed4d814156186b5ea21611d482d4080ddb54601e1"
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
 
