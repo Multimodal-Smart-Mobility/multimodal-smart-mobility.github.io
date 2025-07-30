@@ -9,16 +9,16 @@ nav:
 
 
 #### Faculty
-{% include list.html data="members" component="portrait" filters="role == 'pi'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'"  %}
 #### Postdoctoral Fellows
-{% include list.html data="members" component="portrait" filters="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 #### Ph.D./MPhil Students
-{% include list.html data="members" component="portrait" filters="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 #### Research/Project Assistant
-{% include list.html data="members" component="portrait" filters="role == 'ra'" %}
+{% include list.html data="members" component="portrait" filter="role == 'ra'" %}
 #### Undergraduate Students
-{% include list.html data="members" component="portrait" filters="role == 'under'" %}
+{% include list.html data="members" component="portrait" filter="role == 'under'" %}
 #### Visiting Scholar/Students
-{% include list.html data="members" component="portrait" filters="role == 'visiting'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visiting'" %}
 #### Alumni
-{% include list.html data="members" component="portrait" filters="role == 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
