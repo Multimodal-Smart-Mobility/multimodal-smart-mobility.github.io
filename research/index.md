@@ -17,4 +17,10 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{%
+  include list.html
+  data="citations"
+  component="citation"
+  filter="date.between?('2015', '2025')"
+  style="rich"
+%}
