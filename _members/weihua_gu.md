@@ -2,7 +2,7 @@
 name: Weihua Gu
 image: images/portrait_Gu.png
 role: pi
-affiliation: The Hong Kong Polytechnic University
+affiliation: Associate Professor
 aliases:
 links:
   email: weihua.gu@polyu.edu.hk
