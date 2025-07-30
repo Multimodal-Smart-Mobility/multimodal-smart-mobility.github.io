@@ -1,1 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://guanlii.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://guanlii.github.io/" rel="alternate" type="text/html" /><updated>2025-07-30T16:38:32+00:00</updated><id>https://guanlii.github.io/feed.xml</id><title type="html">Smart Transit Lab</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://guanlii.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://guanlii.github.io/" rel="alternate" type="text/html" /><updated>2025-07-30T16:51:24+00:00</updated><id>https://guanlii.github.io/feed.xml</id><title type="html">Smart Transit Lab</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">Asset Management</title><link href="https://guanlii.github.io/2022/01/01/asset.html" rel="alternate" type="text/html" title="Asset Management" /><published>2022-01-01T00:00:00+00:00</published><updated>2025-07-30T16:50:22+00:00</updated><id>https://guanlii.github.io/2022/01/01/asset</id><content type="html" xml:base="https://guanlii.github.io/2022/01/01/asset.html"><![CDATA[<p>We consider a class of resource allocation problems that apply to optimal management of transportation infrastructure systems and other assets, e.g. vehicle fleets. These problems are common in that the infrastructure will deteriorate and the assets will age over time. Maintenance (including rehabilitation) activities can defer the deterioration and aging process, while replacement/reconstruction can renew the asset. We solve these optimization problems of different application types at various complexity levels (e.g., for a single facility and for a network of facilities). We are also studying optimal ways of deploying and operating infrastructure and assets for the next generation transportation systems (e.g. electric vehicles used as taxis, buses, or private cars).</p>]]></content><author><name></name></author><category term="management" /><summary type="html"><![CDATA[We consider a class of resource allocation problems that apply to optimal management of transportation infrastructure systems and other assets, e.g. vehicle fleets. These problems are common in that the infrastructure will deteriorate and the assets will age over time. Maintenance (including rehabilitation) activities can defer the deterioration and aging process, while replacement/reconstruction can renew the asset. We solve these optimization problems of different application types at various complexity levels (e.g., for a single facility and for a network of facilities). We are also studying optimal ways of deploying and operating infrastructure and assets for the next generation transportation systems (e.g. electric vehicles used as taxis, buses, or private cars).]]></summary></entry><entry><title type="html">Multimodal Traffic</title><link href="https://guanlii.github.io/2021/01/01/multimodal.html" rel="alternate" type="text/html" title="Multimodal Traffic" /><published>2021-01-01T00:00:00+00:00</published><updated>2025-07-30T16:50:22+00:00</updated><id>https://guanlii.github.io/2021/01/01/multimodal</id><content type="html" xml:base="https://guanlii.github.io/2021/01/01/multimodal.html"><![CDATA[<p>We explore how the interactions between traffic streams of different modes affect the overall system performance, and how the negative impacts can be mitigated via smart strategies.</p>
+
+<p>Near-side/far-side bus stops</p>
+
+<p>Dwelling bus at a curbside stop can become a bottleneck for cars. When this temporary bottleneck interacts with a nearby traffic signal, the combined effect can be worse: both bus and car delays can increase.</p>
+
+<p>Which location is better? There has long been debates…</p>
+
+<p>Our Key Findings:</p>
+
+<p>For both types of stops, both bus and car delays decrease as the distance between stop and intersection increases.
+Near-side stops in general induce less cars delays than far-side ones; while far-side stops induce less bus delays.</p>
+
+<p>We developed strategies for mitigating car queues and bus delays. These include bus holding and dynamic signal control. We find that holding can significantly reduce car delays, and dynamic signal control can reduce bus delays as well.</p>
+
+<p>Methodology: LWR theory. (For more details, see http://dx.doi.org/10.1016/j.trb.2012.09.005 and http://dx.doi.org/10.1016/j.trb.2014.06.001.) A related study employed the variational theory to estimate the capacity reduction caused by an obstruction near a signalized intersection: http://dx.doi.org/10.1080/21680566.2015.1052111.</p>
+
+<p>Presentation slides</p>
+
+<p>Access points of freeway special lanes</p>
+
+<p>Freeways with special lanes (e.g. HOV or toll lanes) are another case where multiple traffic streams (e.g. carpool vehicles and regular vehicles) interact. The special lanes are usually physically separated from the adjacent regular-use lanes to reduce the so-called “frictional effect” between traffic streams. This limited-access special lanes were found to create traffic bottlenecks near the access points.</p>
+
+<p>We analyzed detector and video data collected from three real sites of special-lane access points, and developed and calibrated simulation to test strategies for mitigating the negative impacts of those access points.</p>
+
+<p>Key Findings:</p>
+
+<p>Access points can become damaging bottlenecks for both the special lane and regular lanes.
+Activating the special lanes in rush periods only would add more damages to the traffic.
+Ways to alleviate the damages include: elongating the access points, and segregating ingress from egress via tandem openings. However, these cannot eliminate the problem.
+The best way we tested is to completely remove the physical buffer between the special lane and regular lanes, i.e., to convert the limited-access lane to a non-separated one.</p>
+
+<p>For more details, see http://dx.doi.org/10.1016/j.tra.2015.07.001 and http://dx.doi.org/10.1016/j.tra.2015.07.003.</p>
+
+<p>Traffic coordination at signalized intersections via pre-signals</p>
+
+<p>Mid-block pre-signal can increase vehicle discharge capacity at signalized intersections.</p>
+
+<p>We employ the pre-signal to compensate the car capacity lost to bus priority measures at intersections, including a dedicated bus lane and Transit Signal Priority (TSP).</p>
+
+<p>The main signal and pre-signal are coordinated such that: i) the cycle length remains unchanged; and ii) the capacity for cross-street traffic is not compromised.</p>
+
+<p>Key Findings:</p>
+
+<p>Both bus and car operations are improved significantly.
+The strategy is especially advantageous for bus intersections where bus and car flows are both high.</p>
+
+<p>Presentation slides</p>
+
+<p>Ongoing Work: We are currently exploring more efficient signal priority schemes and intermittent bus lane strategies that are applied to more general scenarios including left-turning buses and narrow intersections (e.g., intersection approaches with two lanes only).</p>]]></content><author><name></name></author><category term="multimodal" /><summary type="html"><![CDATA[We explore how the interactions between traffic streams of different modes affect the overall system performance, and how the negative impacts can be mitigated via smart strategies.]]></summary></entry><entry><title type="html">Transit Networks</title><link href="https://guanlii.github.io/2020/01/01/networks.html" rel="alternate" type="text/html" title="Transit Networks" /><published>2020-01-01T00:00:00+00:00</published><updated>2025-07-30T16:50:22+00:00</updated><id>https://guanlii.github.io/2020/01/01/networks</id><content type="html" xml:base="https://guanlii.github.io/2020/01/01/networks.html"><![CDATA[<p>We developed more general analytical models for optimizing a number of transit systems (corridors and networks) that do not rely on mountains of input data.</p>
+
+<p>Optimal transit service atop ring-radial and grid street networks</p>
+
+<p>Which of the following two street networks is more suitable for designing efficient transit network? And can you tell why?</p>
+
+<p>Hints:</p>
+
+<p>Which network exhibits more degrees of freedom for design?
+Which network is more adaptable to the spatial distribution of passenger flows? Note that the passenger flows are concentrated near the city center.
+Which network is more efficient in routing (i.e., has a shorter average trip distance)?</p>
+
+<p>For more details, including the methodology used (Continuum Approximation (CA), a parsimonious modeling technique that is suitable for optimizing spatial designs of transit systems), please see http://dx.doi.org/10.1016/j.trb.2015.06.012)</p>
+
+<p>Presentation video</p>
+
+<p>Alternative transit service schemes</p>
+
+<p>Most transit systems operate in the all-stop fashion, where buses or trains visit each and every stop along the way.</p>
+
+<p>We examine a transit corridor served by two alternative service schemes that are simple and rotationally symmetric:</p>
+
+<p>We develop continuum models that account for: (i) service coordination at transfer stations via bus convoying; and (ii) simple route choice between express and local routes.</p>
+
+<p>Key Findings:</p>
+
+<p>Optimally designed alternative schemes, especially the skip-stop scheme with service coordination, often outperform the traditional all-stop systems.
+Converting existing all-stop systems to alternative-scheme systems can be beneficial too.
+The much cheaper bus rapid transit (BRT) systems operated in the skip-stop fashion can substitute for the very expensive rail systems in many cities.</p>
+
+<p>Presentation slides; paper</p>
+
+<p>Ongoing work: We are currently exploring optimal hierarchical networks that combine differentiated access/feeder modes (e.g., bicycle sharing) and trunk modes (e.g., rail) under various demand patterns.</p>
+
+<p>Question: Given spatially uniform demand and the density of bike-sharing stations, what geometric layout of the stations will minimize users’ average walking distance? Suppose people walk along a dense grid street network.</p>]]></content><author><name></name></author><category term="networks" /><summary type="html"><![CDATA[We developed more general analytical models for optimizing a number of transit systems (corridors and networks) that do not rely on mountains of input data.]]></summary></entry><entry><title type="html">Queues in Transportation Systems</title><link href="https://guanlii.github.io/2019/01/01/queue.html" rel="alternate" type="text/html" title="Queues in Transportation Systems" /><published>2019-01-01T00:00:00+00:00</published><updated>2025-07-30T16:50:22+00:00</updated><id>https://guanlii.github.io/2019/01/01/queue</id><content type="html" xml:base="https://guanlii.github.io/2019/01/01/queue.html"><![CDATA[<p>We studied a special type of vehicle queues where servers are laid out in serial fashion, and overtaking maneuvers are often constrained or prohibited. Examples include bus stops, checkpoints (e.g. toll stations) with tandem booths, Passenger Rapid Transit systems, and passenger queues boarding airplanes.</p>
+
+<p>Bus queues at multi-berth stops</p>
+
+<p>Long bus queues are prevailing in many cities over the world.</p>
+
+<p>Bus queueing behavior at multi-berth stops is different from classical queueing systems with parallel servers; see the following figure.</p>
+
+<p>Key Findings:</p>
+
+<p>Capacity formulas in prevailing manuals (e.g. Highway Capacity Manual) were wrong.
+Dwell time variation is detrimental.
+Splitting a large stop is often beneficial. (For more details, see http://dx.doi.org/10.1016/j.trb.2011.01.001)
+Allowing bus overtaking maneuvers does NOT always bring benefit. (See why: http://dx.doi.org/10.1016/j.trb.2013.08.005)
+Adding buffers between servers can improve system capacity. This strategy can be applied to another type of queueing systems with tandem servers - tandem toll booths. (See http://dx.doi.org/10.1016/j.trb.2012.08.006)</p>
+
+<p>Methodology: Renewal Theory and discrete-event simulation. (See details from http://dx.doi.org/10.1287/trsc.2014.0537)</p>
+
+<p>Presentation slides</p>
+
+<p>Ongoing work: We are currently exploring real-world bus stops with more complicated driver behavior, nearby traffic signals and general-purpose traffic, and congested bus corridors. We are also examining better policies for loading passengers to a commercial flight.</p>]]></content><author><name></name></author><category term="queues" /><summary type="html"><![CDATA[We studied a special type of vehicle queues where servers are laid out in serial fashion, and overtaking maneuvers are often constrained or prohibited. Examples include bus stops, checkpoints (e.g. toll stations) with tandem booths, Passenger Rapid Transit systems, and passenger queues boarding airplanes.]]></summary></entry></feed>
