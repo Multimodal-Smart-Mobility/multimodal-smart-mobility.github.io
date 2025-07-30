@@ -8,14 +8,12 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 
-#### Faculty (Principal Investigator)
+#### Faculty
 {% include list.html data="members" component="portrait" filters="role == 'pi'"  %}
 #### Postdoctoral Fellows
 {% include list.html data="members" component="portrait" filters="role == 'postdoc'" %}
 #### Ph.D./MPhil Students
 {% include list.html data="members" component="portrait" filters="role == 'phd'" %}
-<!-- #### M.S./MPhil Students -->
-{% include list.html data="members" component="portrait" filters="role == 'ms'" %}
 #### Research/Project Assistant
 {% include list.html data="members" component="portrait" filters="role == 'ra'" %}
 #### Undergraduate Students
@@ -24,5 +22,3 @@ nav:
 {% include list.html data="members" component="portrait" filters="role == 'visiting'" %}
 #### Alumni
 {% include list.html data="members" component="portrait" filters="role == 'alumni'" %}
-
-{% include grid.html style="square" content=content %}

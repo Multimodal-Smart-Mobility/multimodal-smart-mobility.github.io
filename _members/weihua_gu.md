@@ -1,7 +1,7 @@
 ---
 name: Weihua Gu
 image: images/portrait_Gu.png
-role: principal-investigator
+role: pi
 affiliation: The Hong Kong Polytechnic University
 aliases:
 links:

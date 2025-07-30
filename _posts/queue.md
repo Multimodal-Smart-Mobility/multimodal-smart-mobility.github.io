@@ -1,5 +1,6 @@
 ---
 title: Queues in Transportation Systems
+order: 1
 ---
 
 We studied a special type of vehicle queues where servers are laid out in serial fashion, and overtaking maneuvers are often constrained or prohibited. Examples include bus stops, checkpoints (e.g. toll stations) with tandem booths, Passenger Rapid Transit systems, and passenger queues boarding airplanes.
