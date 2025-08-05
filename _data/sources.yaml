@@ -20,8 +20,8 @@
   image: images/publications/Efficient2023.jpg
 - id: doi:10.1016/j.trc.2023.104269
   image: images/publications/Impacts2023.jpg
-- id: doi:10.16097/j.cnki.1009-6744.2023.03.027
-  image: images/publications/Simulation2023.jpg
+#- id: doi:10.16097/j.cnki.1009-6744.2023.03.027
+#  image: images/publications/Simulation2023.jpg
 - id: doi:10.1016/J.TRC.2023.104054
   image: images/publications/Condition-based2023.jpg
 - id: doi:10.1016/j.ocecoaman.2022.106386
