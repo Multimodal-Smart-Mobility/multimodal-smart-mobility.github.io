@@ -21,6 +21,5 @@ nav:
   include list.html
   data="citations"
   component="citation"
-  filter="date.between?('2015', '2030')"
   style="rich"
 %}
