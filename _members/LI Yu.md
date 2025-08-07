@@ -1,8 +1,8 @@
 ---
 name: LI Yu
-image: images/team/LI_Yu.jpg
+image: images/team/LI_Yu.png
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
-affiliation: Hong Kong Polytechnic University
+affiliation: 
 order: 1
 
 links:

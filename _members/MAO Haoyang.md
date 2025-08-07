@@ -2,7 +2,7 @@
 name: MAO Haoyang
 image: images/team/MAO_Haoyang.png
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
-affiliation: Hong Kong Polytechnic University
+affiliation: 
 order: 1
 
 links:
