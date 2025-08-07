@@ -21,7 +21,8 @@ nav:
 
 {% include list.html data="posts" component="post-excerpt" %}
 --> 
-####As Principal Investigator
+
+#### As Principal Investigator
 
 1.	Otto Poon Charitable Foundation Smart Cities Research Institute (PolyU). Interdisciplinary Research Fund in Smart Cities, 12/2025~11/2027. 
 Future Urban Mobility: Autonomous, Connected, Modular, Electric (ACME) Transit Solutions. 
@@ -63,7 +64,8 @@ Amount awarded: HK$ 706,737.
 Optimal design and operation of public transportation systems in a congested city. 
 Amount awarded: HK$ 700,000.
 
-- As co-Investigator
+#### As co-Investigator
+
 1.	Research Grant Council (Hong Kong). General Research Fund, 01/2018~12/2020. 
 A data-driven framework for airspace congestion analysis using aircraft tracking data. 
 PI: Lishuai Li (City University of Hong Kong). 
