@@ -1,6 +1,6 @@
 ---
 name: MAO Haoyang
-image: images/team/MAO Haoyang.png
+image: images/team/MAO_Haoyang.png
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: Hong Kong Polytechnic University
 order: 1
@@ -13,8 +13,8 @@ links:
   email:
   profile: 
 
-display_1: M.Sc.(Tongji University), B.Eng. (Tongji University)
-display_2: Fall 2025 - Present 
+bg: M.Sc.(Tongji University), B.Eng. (Tongji University)
+time: Fall 2025 - Present 
 ---
 
 <!--  Add a short self introduction here -->

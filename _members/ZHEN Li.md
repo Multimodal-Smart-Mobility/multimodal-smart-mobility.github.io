@@ -1,9 +1,9 @@
 ---
 name: ZHEN Li
-image: images/team/li_zhen.jpg
+image: images/team/Zhen_Li.jpg
 role: phd
-affiliation: The Hong Kong Polytechnic University
-order: 1
+affiliation: 
+order: 
 
 links:
   home-page: 
@@ -13,8 +13,8 @@ links:
   email: l-i.zhen@connect.polyu.hk
   profile: 
 
-display_1: M.Sc.(BJTU), B.Eng. (WHUT)
-display_2: Fall 2022 - Present 
+bg: M.Sc.(BJTU), B.Eng. (WHUT)
+time: Fall 2022 - Present 
 ---
 
 <!--  Add a short self introduction here -->

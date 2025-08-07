@@ -2,19 +2,19 @@
 name: GU Weihua
 image: images/portrait_Gu.png
 role: pi  # pi / postdoc / phd / ms / under / ra / visiting
-affiliation: Hong Kong Polytechnic University
+affiliation: Associate Professor
 order: 1
 
 links:
   home-page: 
   orcid: 0000-0003-3848-4840
-  google-scholar: https://scholar.google.com/citations?user=0m7hMYkAAAAJ&hl=en&authuser=2&oi=sra
+  google-scholar: 0m7hMYkAAAAJ
   github: 
   email: weihua.gu@polyu.edu.hk
   profile: 
 
-display_1: Ph.D. (UCB), M.A. (UCB), M.Sc. (UCB), M.Eng. (THU), B.Eng. (THU)
-display_2: 
+bg: Ph.D. (UCB), M.A. (UCB), M.Sc. (UCB), M.Eng. (THU), B.Eng. (THU)
+time: 
 ---
 
 <!--  Add a short self introduction here -->

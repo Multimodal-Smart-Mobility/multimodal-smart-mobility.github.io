@@ -1,9 +1,9 @@
 ---
 name: Zhao Xiaokuan
-image: images/team/xiaokuan_zhao.jpg
+image: images/team/ZHAO_Xiaokuan.jpg
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
-affiliation: Hong Kong Polytechnic University
-order: 1
+affiliation: 
+order: 
 
 links:
   home-page: 
@@ -13,8 +13,8 @@ links:
   email: xiaokuan98.zhao@connect.polyu.hk
   profile: 
 
-display_1: M.Sc.(HIT), B.Eng. (HIT)
-display_2: Fall 2024 - Present 
+bg: M.Sc.(HIT), B.Eng. (HIT)
+time: Fall 2024 - Present 
 ---
 
 <!--  Add a short self introduction here -->

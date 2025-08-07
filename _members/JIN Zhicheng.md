@@ -1,20 +1,20 @@
 ---
 name: JIN Zhicheng
-image: images/team/zhicheng_jin.jpg
+image: images/team/Jin_Zhicheng.jpg
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
-affiliation: Hong Kong Polytechnic University
-order: 3
+affiliation: 
+order: 
 
 links:
   home-page: 
-  orcid: https://orcid.org/0000-0001-8813-8175
-  google-scholar: https://scholar.google.com/citations?user=lVE0w1sAAAAJ&hl=zh-CN
+  orcid: 0000-0001-8813-8175
+  google-scholar: lVE0w1sAAAAJ
   github: 
   email: zhicheng.jin@connect.polyu.hk
   profile: 
 
-display_1: M.Sc.(TJU), B.Eng. (SWJTU)
-display_2: Fall 2024 - Present 
+bg: M.Sc.(TJU), B.Eng. (SWJTU)
+time: Fall 2024 - Present 
 ---
 
 <!--  Add a short self introduction here -->

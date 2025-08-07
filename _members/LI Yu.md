@@ -1,6 +1,6 @@
 ---
 name: LI Yu
-image: images/team/LI Yu.jpg
+image: images/team/LI_Yu.jpg
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: Hong Kong Polytechnic University
 order: 1
@@ -13,8 +13,8 @@ links:
   email: yuuts.li@connect.polyu.hk
   profile: 
 
-display_1: M.Sc.(SCUT), B.Eng.(SCUT)
-display_2: Fall 2024 - Present 
+bg: M.Sc.(SCUT), B.Eng.(SCUT)
+time: Fall 2024 - Present 
 ---
 
 <!--  Add a short self introduction here -->
