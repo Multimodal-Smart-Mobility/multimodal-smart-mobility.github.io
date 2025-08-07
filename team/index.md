@@ -8,17 +8,17 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 
-#### Faculty
+#### Academic Staff
 {% include list.html data="members" component="portrait" filter="role == 'pi'"  %}
-#### Postdoctoral Fellows
+#### Postdoctoral Fellow
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
-#### Ph.D./MPhil Students
+#### Ph.D./MPhil Student
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 #### Research/Project Assistant
 {% include list.html data="members" component="portrait" filter="role == 'ra'" %}
-#### Undergraduate Students
+#### Undergraduate Student
 {% include list.html data="members" component="portrait" filter="role == 'under'" %}
-#### Visiting Scholar/Students
+#### Visiting Scholar/Student
 {% include list.html data="members" component="portrait" filter="role == 'visiting'" %}
 #### Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}

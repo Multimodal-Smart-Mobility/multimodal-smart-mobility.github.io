@@ -13,7 +13,7 @@ links:
   email: weihua.gu@polyu.edu.hk
   profile: 
 
-bg: Ph.D. (UCB), M.A. (UCB), M.Sc. (UCB), M.Eng. (THU), B.Eng. (THU)
+bg: 
 time: 
 ---
 
