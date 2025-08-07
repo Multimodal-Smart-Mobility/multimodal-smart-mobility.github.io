@@ -42,6 +42,12 @@
       </span>
     {% endif %}
 
+    {% if member.time %}
+      <span class="time">
+        {{member.time}}
+      </span>
+    {% endif %}
+
     {% if member.description or type %}
       <span class="portrait-description">
         {{ member.description | default: type.description }}
