@@ -23,6 +23,21 @@ nav:
 #### Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 ##### Postdoctoral Fellows
+<style>
+.research-students-table {
+  width: 100%;
+}
+.research-students-table th:first-child,
+.research-students-table td:first-child {
+  width: 80%;
+}
+.research-students-table th:last-child,
+.research-students-table td:last-child {
+  width: 20%;
+}
+</style>
+
+<div class="research-students-table">
 
 |  Name   | Time  |
 |  ----  | ----  |
@@ -33,7 +48,25 @@ nav:
 | Yu Mei<br>(Baidu.) | 02-09/2019 |
 | Minyu Shen<br>(Associate Professor, Southwestern University of Finance and Economics.) | 10/2020-08/2021 |
 
+</div>
+
 ##### Research Postgraduate Students
+
+<style>
+.research-students-table {
+  width: 100%;
+}
+.research-students-table th:first-child,
+.research-students-table td:first-child {
+  width: 80%;
+}
+.research-students-table th:last-child,
+.research-students-table td:last-child {
+  width: 20%;
+}
+</style>
+
+<div class="research-students-table">
 
 |  Name   | Time  |
 |  ----  | ----  |
@@ -44,3 +77,4 @@ nav:
 | Le Zhang, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Associate Professor, Nanjing University of Science & Technology.) | 2019 |
 | Yu Mei, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Baidu.) | 2019 |
 | Nathalie Saade, PhD, University of California, Berkeley; co-supervised with Prof. Michael Cassidy<br>(Meta.) | 2017 |
+
