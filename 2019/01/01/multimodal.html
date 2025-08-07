@@ -43,21 +43,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Queues in Transportation Systems | Multimodal Smart Mobility Laboratory</title>
+<title>Multimodal Traffic | Multimodal Smart Mobility Laboratory</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Queues in Transportation Systems">
+<meta name="title" content="Multimodal Traffic">
 <meta name="description" content="An engaging 1-3 sentence description of your lab.">
 
-<meta property="og:title" content="Queues in Transportation Systems">
+<meta property="og:title" content="Multimodal Traffic">
 <meta property="og:site_title" content="Multimodal Smart Mobility Laboratory">
 <meta property="og:description" content="An engaging 1-3 sentence description of your lab.">
 <meta property="og:url" content="https://guanlii.github.io">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Queues in Transportation Systems">
+<meta property="twitter:title" content="Multimodal Traffic">
 <meta property="twitter:description" content="An engaging 1-3 sentence description of your lab.">
 <meta property="twitter:url" content="https://guanlii.github.io">
 <meta property="twitter:card" content="summary_large_image">
@@ -73,9 +73,9 @@
     
       "@type": "WebSite",
     
-    "name": "Queues in Transportation Systems",
+    "name": "Multimodal Traffic",
     "description": "An engaging 1-3 sentence description of your lab.",
-    "headline": "Queues in Transportation Systems",
+    "headline": "Multimodal Traffic",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -393,15 +393,15 @@
   
   
 
-  <section class="background" data-size="1" style="--image: url('/images/projects/queue/bus_queue.jpg')">
+  <section class="background" data-size="1">
     <!--
-  <background>images/projects/queue/bus_queue.jpg</background>
+  <background></background>
   <dark></dark>
   <size>1</size>
 -->
 
 
-<h1 class="center">Queues in Transportation Systems</h1>
+<h1 class="center">Multimodal Traffic</h1>
 
 <div class="post-info">
   <!-- 
@@ -434,11 +434,11 @@
   >
     
       <a
-        href="/blog?search=&quot;tag: queues&quot;"
+        href="/blog?search=&quot;tag: multimodal&quot;"
         class="tag"
-        data-tooltip="Show items with the tag &quot;queues&quot;"
+        data-tooltip="Show items with the tag &quot;multimodal&quot;"
       >
-        queues
+        multimodal
       </a>
     
   </div>
@@ -459,48 +459,56 @@
 -->
 
 
-<p>We studied a special type of vehicle queues where servers are laid out in serial fashion, and overtaking maneuvers are often constrained or prohibited. Examples include bus stops, checkpoints (e.g. toll stations) with tandem booths, Passenger Rapid Transit systems, and passenger queues boarding airplanes.</p>
+<p>We explore how the interactions between traffic streams of different modes affect the overall system performance, and how the negative impacts can be mitigated via smart strategies.</p>
 
-<p>*Bus queues at multi-berth stops</p>
+<p>Near-side/far-side bus stops</p>
 
-<p>Long bus queues are prevailing in many cities over the world.</p>
+<p>Dwelling bus at a curbside stop can become a bottleneck for cars. When this temporary bottleneck interacts with a nearby traffic signal, the combined effect can be worse: both bus and car delays can increase.</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue1.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue2.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue3.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue4.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-</div>
+<p>Which location is better? There has long been debates…</p>
 
-<p>Bus queueing behavior at multi-berth stops is different from classical queueing systems with parallel servers; see the following figure.</p>
+<p>Our Key Findings:</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/no-overtaking-stop-illustration.jpg" style="width: 60%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-</div>
+<p>For both types of stops, both bus and car delays decrease as the distance between stop and intersection increases.
+Near-side stops in general induce less cars delays than far-side ones; while far-side stops induce less bus delays.</p>
 
-<p>*Key Findings:</p>
+<p>We developed strategies for mitigating car queues and bus delays. These include bus holding and dynamic signal control. We find that holding can significantly reduce car delays, and dynamic signal control can reduce bus delays as well.</p>
 
-<p>Capacity formulas in prevailing manuals (e.g. Highway Capacity Manual) were wrong.
-Dwell time variation is detrimental.
-Splitting a large stop is often beneficial. (For more details, see <a href="http://dx.doi.org/10.1016/j.trb.2011.01.001">http://dx.doi.org/10.1016/j.trb.2011.01.001</a>)
-Allowing bus overtaking maneuvers does NOT always bring benefit. (See why: <a href="http://dx.doi.org/10.1016/j.trb.2013.08.005">http://dx.doi.org/10.1016/j.trb.2013.08.005</a>)
-Adding buffers between servers can improve system capacity. This strategy can be applied to another type of queueing systems with tandem servers - tandem toll booths. (See <a href="http://dx.doi.org/10.1016/j.trb.2012.08.006">http://dx.doi.org/10.1016/j.trb.2012.08.006</a>)</p>
+<p>Methodology: LWR theory. (For more details, see http://dx.doi.org/10.1016/j.trb.2012.09.005 and http://dx.doi.org/10.1016/j.trb.2014.06.001.) A related study employed the variational theory to estimate the capacity reduction caused by an obstruction near a signalized intersection: http://dx.doi.org/10.1080/21680566.2015.1052111.</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/tandem-toll.jpg" style="width: auto; height: 200px; object-fit: cover; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/tandem-booth-illustration.jpg" style="width: auto; height: 200px; margin: 0 10px; border-radius: 15px;">
-</div>
+<p>Presentation slides</p>
 
-<p>*Methodology:</p>
+<p>Access points of freeway special lanes</p>
 
-<p>Renewal Theory and discrete-event simulation. (See details from <a href="http://dx.doi.org/10.1287/trsc.2014.0537">http://dx.doi.org/10.1287/trsc.2014.0537</a>)</p>
+<p>Freeways with special lanes (e.g. HOV or toll lanes) are another case where multiple traffic streams (e.g. carpool vehicles and regular vehicles) interact. The special lanes are usually physically separated from the adjacent regular-use lanes to reduce the so-called “frictional effect” between traffic streams. This limited-access special lanes were found to create traffic bottlenecks near the access points.</p>
 
-<p><a href="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/Queueing_Systems_with_Tandem_Servers.pptx">Presentation slides</a></p>
+<p>We analyzed detector and video data collected from three real sites of special-lane access points, and developed and calibrated simulation to test strategies for mitigating the negative impacts of those access points.</p>
 
-<p>*Ongoing work:</p>
+<p>Key Findings:</p>
 
-<p>We are currently exploring real-world bus stops with more complicated driver behavior, nearby traffic signals and general-purpose traffic, and congested bus corridors. We are also examining better policies for loading passengers to a commercial flight.</p>
+<p>Access points can become damaging bottlenecks for both the special lane and regular lanes.
+Activating the special lanes in rush periods only would add more damages to the traffic.
+Ways to alleviate the damages include: elongating the access points, and segregating ingress from egress via tandem openings. However, these cannot eliminate the problem.
+The best way we tested is to completely remove the physical buffer between the special lane and regular lanes, i.e., to convert the limited-access lane to a non-separated one.</p>
+
+<p>For more details, see http://dx.doi.org/10.1016/j.tra.2015.07.001 and http://dx.doi.org/10.1016/j.tra.2015.07.003.</p>
+
+<p>Traffic coordination at signalized intersections via pre-signals</p>
+
+<p>Mid-block pre-signal can increase vehicle discharge capacity at signalized intersections.</p>
+
+<p>We employ the pre-signal to compensate the car capacity lost to bus priority measures at intersections, including a dedicated bus lane and Transit Signal Priority (TSP).</p>
+
+<p>The main signal and pre-signal are coordinated such that: i) the cycle length remains unchanged; and ii) the capacity for cross-street traffic is not compromised.</p>
+
+<p>Key Findings:</p>
+
+<p>Both bus and car operations are improved significantly.
+The strategy is especially advantageous for bus intersections where bus and car flows are both high.</p>
+
+<p>Presentation slides</p>
+
+<p>Ongoing Work: We are currently exploring more efficient signal priority schemes and intermittent bus lane strategies that are applied to more general scenarios including left-turning buses and narrow intersections (e.g., intersection approaches with two lanes only).</p>
   </section>
 
   
@@ -519,12 +527,17 @@ Adding buffers between servers can improve system capacity. This strategy can be
   <span>
     
       <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2019/01/01/networks.html">
-        Transit Networks
+      <a href="/2019/01/01/asset.html">
+        Asset Management
       </a>
     
   </span>
   <span>
+    
+      Next post <i class="icon fa-solid fa-angle-right"></i><br>
+      <a href="/2019/01/01/networks.html">
+        Transit Networks
+      </a>
     
   </span>
 </div>

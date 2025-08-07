@@ -43,21 +43,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Queues in Transportation Systems | Multimodal Smart Mobility Laboratory</title>
+<title>Transit Networks | Multimodal Smart Mobility Laboratory</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Queues in Transportation Systems">
+<meta name="title" content="Transit Networks">
 <meta name="description" content="An engaging 1-3 sentence description of your lab.">
 
-<meta property="og:title" content="Queues in Transportation Systems">
+<meta property="og:title" content="Transit Networks">
 <meta property="og:site_title" content="Multimodal Smart Mobility Laboratory">
 <meta property="og:description" content="An engaging 1-3 sentence description of your lab.">
 <meta property="og:url" content="https://guanlii.github.io">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Queues in Transportation Systems">
+<meta property="twitter:title" content="Transit Networks">
 <meta property="twitter:description" content="An engaging 1-3 sentence description of your lab.">
 <meta property="twitter:url" content="https://guanlii.github.io">
 <meta property="twitter:card" content="summary_large_image">
@@ -73,9 +73,9 @@
     
       "@type": "WebSite",
     
-    "name": "Queues in Transportation Systems",
+    "name": "Transit Networks",
     "description": "An engaging 1-3 sentence description of your lab.",
-    "headline": "Queues in Transportation Systems",
+    "headline": "Transit Networks",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -401,7 +401,7 @@
 -->
 
 
-<h1 class="center">Queues in Transportation Systems</h1>
+<h1 class="center">Transit Networks</h1>
 
 <div class="post-info">
   <!-- 
@@ -434,11 +434,11 @@
   >
     
       <a
-        href="/blog?search=&quot;tag: queues&quot;"
+        href="/blog?search=&quot;tag: networks&quot;"
         class="tag"
-        data-tooltip="Show items with the tag &quot;queues&quot;"
+        data-tooltip="Show items with the tag &quot;networks&quot;"
       >
-        queues
+        networks
       </a>
     
   </div>
@@ -459,48 +459,41 @@
 -->
 
 
-<p>We studied a special type of vehicle queues where servers are laid out in serial fashion, and overtaking maneuvers are often constrained or prohibited. Examples include bus stops, checkpoints (e.g. toll stations) with tandem booths, Passenger Rapid Transit systems, and passenger queues boarding airplanes.</p>
+<p>We developed more general analytical models for optimizing a number of transit systems (corridors and networks) that do not rely on mountains of input data.</p>
 
-<p>*Bus queues at multi-berth stops</p>
+<p>Optimal transit service atop ring-radial and grid street networks</p>
 
-<p>Long bus queues are prevailing in many cities over the world.</p>
+<p>Which of the following two street networks is more suitable for designing efficient transit network? And can you tell why?</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue1.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue2.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue3.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue4.jpg" style="width: 15%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-</div>
+<p>Hints:</p>
 
-<p>Bus queueing behavior at multi-berth stops is different from classical queueing systems with parallel servers; see the following figure.</p>
+<p>Which network exhibits more degrees of freedom for design?
+Which network is more adaptable to the spatial distribution of passenger flows? Note that the passenger flows are concentrated near the city center.
+Which network is more efficient in routing (i.e., has a shorter average trip distance)?</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/no-overtaking-stop-illustration.jpg" style="width: 60%; height: auto; object-fit: cover; max-width: 500px; margin: 0 10px; border-radius: 15px;">
-</div>
+<p>For more details, including the methodology used (Continuum Approximation (CA), a parsimonious modeling technique that is suitable for optimizing spatial designs of transit systems), please see http://dx.doi.org/10.1016/j.trb.2015.06.012)</p>
 
-<p>*Key Findings:</p>
+<p>Presentation video</p>
 
-<p>Capacity formulas in prevailing manuals (e.g. Highway Capacity Manual) were wrong.
-Dwell time variation is detrimental.
-Splitting a large stop is often beneficial. (For more details, see <a href="http://dx.doi.org/10.1016/j.trb.2011.01.001">http://dx.doi.org/10.1016/j.trb.2011.01.001</a>)
-Allowing bus overtaking maneuvers does NOT always bring benefit. (See why: <a href="http://dx.doi.org/10.1016/j.trb.2013.08.005">http://dx.doi.org/10.1016/j.trb.2013.08.005</a>)
-Adding buffers between servers can improve system capacity. This strategy can be applied to another type of queueing systems with tandem servers - tandem toll booths. (See <a href="http://dx.doi.org/10.1016/j.trb.2012.08.006">http://dx.doi.org/10.1016/j.trb.2012.08.006</a>)</p>
+<p>Alternative transit service schemes</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/tandem-toll.jpg" style="width: auto; height: 200px; object-fit: cover; margin: 0 10px; border-radius: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/tandem-booth-illustration.jpg" style="width: auto; height: 200px; margin: 0 10px; border-radius: 15px;">
-</div>
+<p>Most transit systems operate in the all-stop fashion, where buses or trains visit each and every stop along the way.</p>
 
-<p>*Methodology:</p>
+<p>We examine a transit corridor served by two alternative service schemes that are simple and rotationally symmetric:</p>
 
-<p>Renewal Theory and discrete-event simulation. (See details from <a href="http://dx.doi.org/10.1287/trsc.2014.0537">http://dx.doi.org/10.1287/trsc.2014.0537</a>)</p>
+<p>We develop continuum models that account for: (i) service coordination at transfer stations via bus convoying; and (ii) simple route choice between express and local routes.</p>
 
-<p><a href="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/Queueing_Systems_with_Tandem_Servers.pptx">Presentation slides</a></p>
+<p>Key Findings:</p>
 
-<p>*Ongoing work:</p>
+<p>Optimally designed alternative schemes, especially the skip-stop scheme with service coordination, often outperform the traditional all-stop systems.
+Converting existing all-stop systems to alternative-scheme systems can be beneficial too.
+The much cheaper bus rapid transit (BRT) systems operated in the skip-stop fashion can substitute for the very expensive rail systems in many cities.</p>
 
-<p>We are currently exploring real-world bus stops with more complicated driver behavior, nearby traffic signals and general-purpose traffic, and congested bus corridors. We are also examining better policies for loading passengers to a commercial flight.</p>
+<p>Presentation slides; paper</p>
+
+<p>Ongoing work: We are currently exploring optimal hierarchical networks that combine differentiated access/feeder modes (e.g., bicycle sharing) and trunk modes (e.g., rail) under various demand patterns.</p>
+
+<p>Question: Given spatially uniform demand and the density of bike-sharing stations, what geometric layout of the stations will minimize users’ average walking distance? Suppose people walk along a dense grid street network.</p>
   </section>
 
   
@@ -519,12 +512,17 @@ Adding buffers between servers can improve system capacity. This strategy can be
   <span>
     
       <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/2019/01/01/networks.html">
-        Transit Networks
+      <a href="/2019/01/01/multimodal.html">
+        Multimodal Traffic
       </a>
     
   </span>
   <span>
+    
+      Next post <i class="icon fa-solid fa-angle-right"></i><br>
+      <a href="/2019/01/01/queue.html">
+        Queues in Transportation Systems
+      </a>
     
   </span>
 </div>
