@@ -1,6 +1,6 @@
 ---
 name: Zhao Xiaokuan
-image: images/team/ZHAO_Xiaokuan.jpg
+image: images/team/ZHAO_Xiaokuan.png
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: 
 order: 
