@@ -23,22 +23,24 @@ nav:
 #### Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 ##### Postdoctoral Fellows
-|  Name   | Time  |
-|Liangliang Fu|09/2015-08/2016|
-|Xin Li<br>(Professor, Dalian Maritime University.)|08/2016-08/2018|
-|Yu Han<br>(Associate Professor, Southeast University.)|04-08/2019|
-|Le Zhang<br>(Associate Professor, Nanjing University of Science & Technology.)|02-09/2019|
-|Yu Mei<br>(Baidu.)|02-09/2019|
-|Minyu Shen<br>
-(Associate Professor, Southwestern University of Finance and Economics.)|10/2020-08/2021|
 
-##### Research Postgraduate Students
 |  Name   | Time  |
 |  ----  | ----  |
-|Qiaolin Hu, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Assistant Professor, Nanjing University of Science & Technology.)|2022|
-|Xiao Yang, PhD, Hong Kong Polytechnic University; Chief Supervisor|2022|
-|Liyu Wu, PhD, Hong Kong Polytechnic University; Chief Supervisor <br>(Arup Hong Kong.)|2021|
-|Minyu Shen, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Associate Professor, Southwestern University of Finance and Economics.)|2020|
-|Le Zhang, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Associate Professor, Nanjing University of Science & Technology.)|2019|
-|Yu Mei, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Baidu.)|2019|
-|Nathalie Saade, PhD, University of California, Berkeley; co-supervised with Prof. Michael Cassidy<br>(Meta.)|2017|
+| Liangliang Fu | 09/2015-08/2016 |
+| Xin Li<br>(Professor, Dalian Maritime University.) | 08/2016-08/2018 |
+| Yu Han<br>(Associate Professor, Southeast University.) | 04-08/2019 |
+| Le Zhang<br>(Associate Professor, Nanjing University of Science & Technology.) | 02-09/2019 |
+| Yu Mei<br>(Baidu.) | 02-09/2019 |
+| Minyu Shen<br>(Associate Professor, Southwestern University of Finance and Economics.) | 10/2020-08/2021 |
+
+##### Research Postgraduate Students
+
+|  Name   | Time  |
+|  ----  | ----  |
+| Qiaolin Hu, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Assistant Professor, Nanjing University of Science & Technology.) | 2022 |
+| Xiao Yang, PhD, Hong Kong Polytechnic University; Chief Supervisor | 2022 |
+| Liyu Wu, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Arup Hong Kong.) | 2021 |
+| Minyu Shen, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Associate Professor, Southwestern University of Finance and Economics.) | 2020 |
+| Le Zhang, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Associate Professor, Nanjing University of Science & Technology.) | 2019 |
+| Yu Mei, PhD, Hong Kong Polytechnic University; Chief Supervisor<br>(Baidu.) | 2019 |
+| Nathalie Saade, PhD, University of California, Berkeley; co-supervised with Prof. Michael Cassidy<br>(Meta.) | 2017 |
