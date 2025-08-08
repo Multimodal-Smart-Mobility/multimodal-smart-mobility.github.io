@@ -3,7 +3,7 @@ name: MAO Haoyang
 image: images/team/MAO_Haoyang.png
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: 
-order: 1
+order: 5
 
 links:
   home-page: 

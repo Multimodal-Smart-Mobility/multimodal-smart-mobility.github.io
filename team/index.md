@@ -24,16 +24,17 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 ##### Postdoctoral Fellows
 <style>
-.research-students-table {
-  width: 100%;
+.research-students-table table {
+  width: 100% !important;
+  table-layout: fixed;
 }
-.research-students-table th:first-child,
-.research-students-table td:first-child {
-  width: 80%;
+.research-students-table table th:first-child,
+.research-students-table table td:first-child {
+  width: 80% !important;
 }
-.research-students-table th:last-child,
-.research-students-table td:last-child {
-  width: 20%;
+.research-students-table table th:last-child,
+.research-students-table table td:last-child {
+  width: 20% !important;
 }
 </style>
 
@@ -51,20 +52,6 @@ nav:
 </div>
 
 ##### Research Postgraduate Students
-
-<style>
-.research-students-table {
-  width: 100%;
-}
-.research-students-table th:first-child,
-.research-students-table td:first-child {
-  width: 80%;
-}
-.research-students-table th:last-child,
-.research-students-table td:last-child {
-  width: 20%;
-}
-</style>
 
 <div class="research-students-table">
 
