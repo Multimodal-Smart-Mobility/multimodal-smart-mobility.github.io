@@ -26,47 +26,47 @@ nav:
 
 #### Referee Services
 ##### Journals
-Communications in Transportation Research
-Computers & Industrial Engineering; 
-EURO Journal on Transportation and Logistics; 
-IEEE Intelligent Transportation Systems Magazine; 
-IEEE Systems Journal; 
-IEEE Transactions on Intelligent Transportation Systems; 
-IET Intelligent Transport Systems; 
-International Journal of Transportation Science and Technology; 
-Journal of Advanced Transportation; 
-Journal of Construction Engineering and Management (ASCE); 
-Journal of Intelligent Transportation Systems; 
-Journal of Operational Research Society;
-Journal of Public Transportation; 
-Journal of Simulation;
-Journal of Transport Geography;
-Journal of Transportation Engineering (ASCE) Part A and B; 
-Networks and Spatial Economics; 
-Ocean and Coastal Management;
-Physica A; 
-PLOS One;
-Research in Transportation Business & Management;
-Research in Transportation Economics;
-Socio-Economic Planning Sciences;
-Sustainable Cities and Society;
-Transport Policy; 
-Transportation;
-Transportation Letters;
-Transportation Planning and Technology;
-Transportation Research Part A, B, C, D and E; 
-Transportation Research Record; 
-Transportation Science;
-Transportmetrica A and B; 
-Travel Behaviour and Society.
+- Communications in Transportation Research
+- Computers & Industrial Engineering
+- EURO Journal on Transportation and Logistics
+- IEEE Intelligent Transportation Systems Magazine
+- IEEE Systems Journal
+- IEEE Transactions on Intelligent Transportation Systems
+- IET Intelligent Transport Systems
+- International Journal of Transportation Science and Technology
+- Journal of Advanced Transportation
+- Journal of Construction Engineering and Management (ASCE)
+- Journal of Intelligent Transportation Systems
+- Journal of Operational Research Society
+- Journal of Public Transportation
+- Journal of Simulation
+- Journal of Transport Geography
+- Journal of Transportation Engineering (ASCE) Part A and B
+- Networks and Spatial Economics
+- Ocean and Coastal Management
+- Physica A
+- PLOS One
+- Research in Transportation Business & Management
+- Research in Transportation Economics
+- Socio-Economic Planning Sciences
+- Sustainable Cities and Society
+- Transport Policy
+- Transportation
+- Transportation Letters
+- Transportation Planning and Technology
+- Transportation Research Part A, B, C, D and E
+- Transportation Research Record
+- Transportation Science
+- Transportmetrica A and B
+- Travel Behaviour and Society
 
 ##### Conferences
-COTA International Conference of Transportation Professionals (CICTP and formerly ICCTP); 
-International Conference of Hong Kong Society for Transportation Studies; 
-International Symposium on Transportation and Traffic Theory (ISTTT); 
-IEEE International Conference on Intelligent Transportation Systems (ITSC); 
-Transportation Research Board Annual Meeting; 
-World Conference on Transport Research (WCTR).
+- COTA International Conference of Transportation Professionals (CICTP and formerly ICCTP)
+- International Conference of Hong Kong Society for Transportation Studies
+- International Symposium on Transportation and Traffic Theory (ISTTT)
+- IEEE International Conference on Intelligent Transportation Systems (ITSC)
+- Transportation Research Board Annual Meeting
+- World Conference on Transport Research (WCTR)
 
 #### Academic and Professional Committee Memberships 
 1.	World Transport Convention, Technical Committee of Electrified Transportation Management and Service (2024-present)
