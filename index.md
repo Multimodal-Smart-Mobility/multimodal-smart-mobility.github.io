@@ -7,12 +7,6 @@ Multimodal Smart Mobility Laboratory (MSML) is a lab.
 
 {% include section.html %}
 
-# Events & News
-
-2025/08    Our paper xxx was accepted by xxx.
-
-{% include section.html %}
-
 # Research Interest
 
 {% include list.html data="posts" component="post-excerpt" %}

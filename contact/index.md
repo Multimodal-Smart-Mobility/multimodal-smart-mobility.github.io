@@ -1,7 +1,7 @@
 ---
-title: Join us
+title: Join Us
 nav:
-  order: 4
+  order: 7
   tooltip: Email, address, and location
 ---
 
