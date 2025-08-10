@@ -1,6 +1,6 @@
 ---
 name: GU Weihua
-image: images/portrait_Gu.png
+image: images/team/GU_Weihua.jpg
 role: pi  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: Associate Professor
 order: 1

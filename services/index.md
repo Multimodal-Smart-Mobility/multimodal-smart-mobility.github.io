@@ -10,19 +10,19 @@ nav:
 {% include section.html %}
 
 #### Editorships & Conference Organizations
-1.	Associate Editor, Transportation Science. (2024-present)
-2.	Associate Editor, Transportmetrica B: Transport Dynamics. (2020-present)
-3.	Associate Editor, Transportmetrica A: Transport Science. (2020-present)
-4.	Editorial Board Editor, Transportation Research Part B. (2019-present)
-5.	Guest Editor, Special Issue on " Integrating Autonomous Buses into Future Urban Mobility", Transportation Research Part E (2025)
-6.	Guest Editor, Special Issue on "Electric Shared Mobility", Transportation Research Part D. (2024)
-7.	Guest Editor, Special Issue on "Green public transport systems: Planning, operation, and control", Case Studies on Transport Policy. (2023)
-8.	Guest Editor, Special Issue on “Public Transit and Pedestrian Studies”, Journal of Advanced Transportation. (2016)
-9.	Organizing Committee Member, the 12th International Conference on Traffic & Transportation Studies (ICTTS 2026), Hong Kong. (2026)
-10.	Session Organizer and Co-Chair on “Smart Future Urban Mobility”, Global Smart Cities Summit cum the 4th International Conference on Urban Informatics (GSCS & ICUI 2025), Hong Kong. (2025)
-11.	Co-Chair, the 23rd International Conference of Hong Kong Society for Transportation Studies, Hong Kong. (2018)
-12.	Area Editor on “Rail & Transit Operations and Management”, the 17th COTA International Conference of Transportation Professionals (CICTP), Shanghai, China. (2017)
-13.	Organizing Committee Member and/or Session Chair, the International Conference of the Hong Kong Society for Transportation Studies, Hong Kong. (2017-present)
+1.	**Associate Editor**, Transportation Science. (2024-present)
+2.	**Associate Editor**, Transportmetrica B: Transport Dynamics. (2020-present)
+3.	**Associate Editor**, Transportmetrica A: Transport Science. (2020-present)
+4.	**Editorial Board Editor**, Transportation Research Part B. (2019-present)
+5.	**Guest Editor**, Special Issue on " Integrating Autonomous Buses into Future Urban Mobility", Transportation Research Part E (2025)
+6.	**Guest Editor**, Special Issue on "Electric Shared Mobility", Transportation Research Part D. (2024)
+7.	**Guest Editor**, Special Issue on "Green public transport systems: Planning, operation, and control", Case Studies on Transport Policy. (2023)
+8.	**Guest Editor**, Special Issue on “Public Transit and Pedestrian Studies”, Journal of Advanced Transportation. (2016)
+9.	**Organizing Committee Member**, the 12th International Conference on Traffic & Transportation Studies (ICTTS 2026), Hong Kong. (2026)
+10.	**Session Organizer and Co-Chair on “Smart Future Urban Mobility”**, Global Smart Cities Summit cum the 4th International Conference on Urban Informatics (GSCS & ICUI 2025), Hong Kong. (2025)
+11.	**Co-Chair**, the 23rd International Conference of Hong Kong Society for Transportation Studies, Hong Kong. (2018)
+12.	**Area Editor on “Rail & Transit Operations and Management”**, the 17th COTA International Conference of Transportation Professionals (CICTP), Shanghai, China. (2017)
+13.	**Organizing Committee Member and/or Session Chair**, the International Conference of the Hong Kong Society for Transportation Studies, Hong Kong. (2017-present)
 
 #### Referee Services
 ##### Journals
