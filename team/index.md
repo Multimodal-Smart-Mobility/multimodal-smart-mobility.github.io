@@ -9,19 +9,19 @@ nav:
 
 
 #### Academic Staff
-{% include list.html data="members" component="portrait" filter="role == 'pi'"  %}
+{% include list_team.html data="members" component="portrait" filter="role == 'pi'"  %}
 #### Postdoctoral Fellow
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'postdoc'" %}
 #### Ph.D./MPhil Student
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'phd'" %}
 #### Research/Project Assistant
-{% include list.html data="members" component="portrait" filter="role == 'ra'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'ra'" %}
 #### Undergraduate Student
-{% include list.html data="members" component="portrait" filter="role == 'under'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'under'" %}
 #### Visiting Scholar/Student
-{% include list.html data="members" component="portrait" filter="role == 'visiting'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'visiting'" %}
 #### Alumni
-{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'alumni'" %}
 ##### Postdoctoral Fellows
 **1. Liangliang Fu**, 09/2015-08/2016  
 **2. Xin Li**, (Professor, Dalian Maritime University), 08/2016-08/2018  

@@ -5,6 +5,8 @@
   | data_filter: include.filter
 %}
 
+{% assign sorted_data = data | sort: "order" %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
@@ -19,7 +21,7 @@
     {% assign data = data | sort: "date" | reverse %}
   {% endif %}
 
-  {% for d in data %}
+  {% for d in sorted_data %}
     {% assign style = d.style | default: include.style %}
 
     {%
