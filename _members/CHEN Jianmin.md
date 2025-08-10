@@ -4,7 +4,7 @@ image: images/photo.jpg
 role: postdoc
 order: 2
 bg: 
-time: Spring 2025 - Present 
+time: 2025 - Present 
 ---
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->

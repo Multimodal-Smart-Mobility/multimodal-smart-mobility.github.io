@@ -14,7 +14,7 @@ links:
   profile: 
 
 bg: M.Sc.(Tongji University), B.Eng. (Tongji University)
-time: Fall 2025 - Present 
+time: 2025 - Present 
 ---
 
 <!--  Add a short self introduction here -->

@@ -14,7 +14,7 @@ links:
   profile: 
 
 bg: M.Sc.(BJTU), B.Eng. (WHUT)
-time: Fall 2022 - Present 
+time: 2022 - Present 
 ---
 
 <!--  Add a short self introduction here -->

@@ -14,7 +14,7 @@ links:
   profile: 
 
 bg: M.Sc.(SCUT), B.Eng.(SCUT)
-time: Fall 2024 - Present 
+time: 2024 - Present 
 ---
 
 <!--  Add a short self introduction here -->

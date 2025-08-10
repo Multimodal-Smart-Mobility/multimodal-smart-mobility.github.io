@@ -14,7 +14,7 @@ links:
   profile: 
 
 bg: M.Sc.(TJU), B.Eng. (SWJTU)
-time: Fall 2024 - Present 
+time: 2024 - Present 
 ---
 
 <!--  Add a short self introduction here -->

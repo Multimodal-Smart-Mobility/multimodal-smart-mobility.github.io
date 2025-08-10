@@ -1,7 +1,7 @@
 ---
 name: FAN Wenbo
 image: images/team/FAN_Wenbo.jpg
-role:   # pi / postdoc / phd / ms / under / ra / visiting
+role: pi # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: Research Assistant Professor
 order: 2
 
