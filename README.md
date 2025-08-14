@@ -5,6 +5,6 @@
 
   # Multimodal-Smart-Mobility's Website
 
-  Visit **[Multimodal-Smart-Mobility.github.io](https://Multimodal-Smart-Mobility.github.io)** 🚀
+  Visit **[multimodal-smart-mobility.github.io](https://multimodal-smart-mobility.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
