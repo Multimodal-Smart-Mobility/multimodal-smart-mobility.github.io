@@ -7,7 +7,7 @@ Multimodal Smart Mobility (MSM) focuses on public transportation systems, multim
 
 ## Research Interests
 <div style="float: left; margin-right: 15px;">
-  <img src="https://github.com/guanlii/guanlii.github.io/raw/main/images/projects/queue/bus_queue.jpg#pic_left" alt="Research Interests" width="300">
+  <img src="https://github.com/Multimodal-Smart-Mobility/Multimodal-Smart-Mobility.github.io/raw/main/images/projects/queue/bus_queue.jpg#pic_left" alt="Research Interests" width="300">
 </div>
 <p>
 -	Public transportation systems planning, design, operations, and control<br>

@@ -3,8 +3,8 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # guanlii's Website
+  # Multimodal-Smart-Mobility's Website
 
-  Visit **[guanlii.github.io](https://guanlii.github.io)** 🚀
+  Visit **[Multimodal-Smart-Mobility.github.io](https://Multimodal-Smart-Mobility.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
