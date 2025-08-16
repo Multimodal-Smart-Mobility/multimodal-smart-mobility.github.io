@@ -43,8 +43,6 @@ collections:
   posts:
     output: true
 
-url: "https://multimodal-smart-mobility.github.io/"
-
 # jekyll plugins
 plugins:
   - jekyll-spaceship
@@ -52,10 +50,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
-
-# automatically generate sitemap
-sitemap:
-  path: sitemap.xml
 
 # code block syntax highlighting
 highlighter: rouge
