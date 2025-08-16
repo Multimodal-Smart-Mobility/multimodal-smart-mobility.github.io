@@ -75,7 +75,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2024-07-01'
   link: https://doi.org/g9v7mk
-  image: images/publications/Optimal_fan2024.jpg
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tre.2024.103545
@@ -209,7 +209,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2021-08-01'
   link: https://doi.org/gn3sq5
-  image: images/publications/Planning2021.jpg
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2021.103211
@@ -281,7 +281,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2020-01-01'
   link: https://doi.org/ghtvk6
-  image: images/publications/Optimal2020.jpg
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2019.10.006
@@ -338,7 +338,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2018-05-01'
   link: https://doi.org/gdmj3w
-  image: images/publications/Optimal2018.jpg
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trb.2017.09.014
@@ -535,5 +535,317 @@
   date: '2011-05-01'
   link: https://doi.org/cfhpzb
   image: images/publications/On2011.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2025.105245
+  title: Optimal design of on-demand modular feeder transit services
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  - Meng Xu
+  - Xiaotian Yan
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2025-09-01'
+  link: https://doi.org/g9w9mv
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2025.105181
+  title: Novel operational algorithms for ride-pooling as on-demand feeder services
+  authors:
+  - Wenbo Fan
+  - Xiaotian Yan
+  - Zhanbo Sun
+  - Xiaohui Yang
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2025-09-01'
+  link: https://doi.org/g9w9mw
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2024.124180
+  title: 'Optimizing service design for the intercity demand responsive transit system:
+    Model, algorithm, and comparative analysis'
+  authors:
+  - Rong Zheng
+  - Hongtai Yang
+  - Wenbo Fan
+  - Donggen Wang
+  publisher: Expert Systems with Applications
+  date: '2024-11-01'
+  link: https://doi.org/g9w9mx
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2024.104739
+  title: "Macroscopic fundamental diagram with volume\u2013delay relationship: Model\
+    \ derivation, empirical validation and invariance property"
+  authors:
+  - Ke Han
+  - Tao Huang
+  - Wenbo Fan
+  - Qian Ge
+  - Shihui Dong
+  - Xuting Wang
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2024-09-01'
+  link: https://doi.org/g9fqdj
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2023.103114
+  title: Joint design of electric bus transit service and wireless charging facilities
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2023-06-01'
+  link: https://doi.org/g9w9mz
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1061/(ASCE)UP.1943-5444.0000786
+  title: 'Bilevel Programming Model for Park-and-Ride Versus Transit-Oriented Development:
+    A Case Study of Chengdu City, China'
+  authors:
+  - Jinlong Li
+  - Xia Luo
+  - Hongjie Wang
+  - Yuansen Qiu
+  - Wenbo Fan
+  publisher: Journal of Urban Planning and Development
+  date: '2022-03-01'
+  link: https://doi.org/g9w9m2
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:/10.1016/j.trc.2021.103366
+  title: Joint design of shared-bike and transit services in corridors
+  authors:
+  - Xiaoling Luo
+  - Weihua Gu
+  - Wenbo Fan
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2021-11-01'
+  link: https://doi.org/gn3sqf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2021.102600
+  title: Managing bottleneck congestion with tradable credits under asymmetric transaction
+    cost
+  authors:
+  - Wenbo Fan
+  - Feng Xiao
+  - Yu (Macro) Nie
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2022-02-01'
+  link: https://doi.org/g9w9m3
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITS.2021.3054678
+  title: Optimal Design for Demand Responsive Connector Service Considering Elastic
+    Demand
+  authors:
+  - Hongtai Yang
+  - Zhaolin Zhang
+  - Wenbo Fan
+  - Feng Xiao
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-04-01'
+  link: https://doi.org/g9w9m4
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aap.2020.105936
+  title: Bayesian networks for imbalance data to investigate the contributing factors
+    to fatal injury crashes on the Ghanaian highways
+  authors:
+  - Mahama Yahaya
+  - Runhua Guo
+  - Wenbo Fan
+  - Kamal Bashir
+  - Yingfei Fan
+  - Shiwei Xu
+  - Xinguo Jiang
+  publisher: Accident Analysis &amp; Prevention
+  date: '2021-02-01'
+  link: https://doi.org/g9w9m5
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2020.102119
+  title: Planning skip-stop services with schedule coordination
+  authors:
+  - Wenbo Fan
+  - Yu Ran
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2021-01-01'
+  link: https://doi.org/gn3sr2
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/19439962.2019.1580326
+  title: Examining the factors influencing the injury severity of crashes on arterials
+    with signal coordination
+  authors:
+  - Guopeng Zhang
+  - Xinguo Jiang
+  - Yingfei Fan
+  - Wenbo Fan
+  - Teng Meng
+  publisher: Journal of Transportation Safety &amp; Security
+  date: '2019-03-22'
+  link: https://doi.org/g9w9m6
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/17457300.2020.1746814
+  title: 'A machine-learning method for improving crash injury severity analysis:
+    a case study of work zone crashes in Cairo, Egypt'
+  authors:
+  - Mahama Yahaya
+  - Wenbo Fan
+  - Chuanyun Fu
+  - Xiang Li
+  - Yue Su
+  - Xinguo Jiang
+  publisher: International Journal of Injury Control and Safety Promotion
+  date: '2020-04-01'
+  link: https://doi.org/g9w9m7
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2020.2996084
+  title: Schedule Coordination Design in a Trunk-Feeder Transit Corridor With Spatially
+    Heterogeneous Demand
+  authors:
+  - Yi Yang
+  - Xinguo Jiang
+  - Wenbo Fan
+  - Yusong Yan
+  - Liang Xia
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9w9m8
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2020/8872748
+  title: Optimal Design of Bus Stop Locations Integrating Continuum Approximation
+    and Discrete Models
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  - Yangsheng Jiang
+  - Jun Zhang
+  publisher: Journal of Advanced Transportation
+  date: '2020-09-07'
+  link: https://doi.org/g66d28
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0195927
+  title: Modeling an enhanced ridesharing system with meet points and time windows
+  authors:
+  - Xin Li
+  - Sangen Hu
+  - Wenbo Fan
+  - Kai Deng
+  publisher: PLOS ONE
+  date: '2018-05-01'
+  link: https://doi.org/g9w9m9
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3141/2628-09
+  title: Use of Statewide Models as a Decision Tool for Zero-Emission Vehicles Deployment
+  authors:
+  - Wenbo Fan
+  - Sevgi Erdogan
+  - Timothy F. Welch
+  - Frederick W. Ducca
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2017-01-01'
+  link: https://doi.org/g9w9nb
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aap.2015.09.006
+  title: Safety evaluation of signalized intersections with left-turn waiting area
+    in China
+  authors:
+  - Xinguo Jiang
+  - Guopeng Zhang
+  - Wei Bai
+  - Wenbo Fan
+  publisher: Accident Analysis &amp; Prevention
+  date: '2016-10-01'
+  link: https://doi.org/f842fq
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tranpol.2016.03.001
+  title: Modeling and evaluating FAIR highway performance and policy options
+  authors:
+  - Wenbo Fan
+  - Xinguo Jiang
+  - Sevgi Erdogan
+  - Yanshuo Sun
+  publisher: Transport Policy
+  date: '2016-05-01'
+  link: https://doi.org/g9w9nc
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/15389588.2014.936012
+  title: Differences in Injury Severities Between 2-Vehicle and 3-Vehicle Crashes
+  authors:
+  - Xinguo Jiang
+  - Haitao Zheng
+  - Yanjun Qiu
+  - Wenbo Fan
+  publisher: Traffic Injury Prevention
+  date: '2014-12-06'
+  link: https://doi.org/g9w9nd
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1061/(ASCE)UP.1943-5444.0000178
+  title: Bilevel Programming Model for Locating Park-and-Ride Facilities
+  authors:
+  - Wenbo Fan
+  - Muhammad Babar Khan
+  - Jian Ma
+  - Xinguo Jiang
+  publisher: Journal of Urban Planning and Development
+  date: '2014-09-01'
+  link: https://doi.org/gjsj2q
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tranpol.2013.09.002
+  title: 'Tradable mobility permits in roadway capacity allocation: Review and appraisal'
+  authors:
+  - Wenbo Fan
+  - Xinguo Jiang
+  publisher: Transport Policy
+  date: '2013-11-01'
+  link: https://doi.org/f5m49f
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4236/jtts.2012.23028
+  title: Modeling the Parking Pricing of Multiple Parking Facilities under Different
+    Operation Regimes
+  authors:
+  - Fan Wenbo
+  - Muhammad Babar Khan
+  publisher: Journal of Transportation Technologies
+  date: '2012-01-01'
+  link: https://doi.org/g9w9nf
+  image: null
   plugin: sources.py
   file: sources.yaml
