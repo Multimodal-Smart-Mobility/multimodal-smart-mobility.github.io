@@ -43,6 +43,8 @@ collections:
   posts:
     output: true
 
+url: "https://multimodal-smart-mobility.github.io/"
+
 # jekyll plugins
 plugins:
   - jekyll-spaceship
