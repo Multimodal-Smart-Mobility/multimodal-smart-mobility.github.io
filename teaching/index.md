@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Teaching
 
 {% include section.html %}
-
+## Dr GU
 #### LIST OF SUBJECTS
 1.	**CSE30390**: Transportation Systems Analysis (undergraduate), Hong Kong Polytechnic University
 2.	**EE3013/3013B**: Transportation Data Analytics (undergraduate), Hong Kong Polytechnic University
@@ -26,3 +26,12 @@ nav:
 2.	Li Zhen, Three Minute Thesis (3MT) Competition, Champion of the Department of Electrical Engineering, 2024.
 3.	Yu Li, Zhicheng Jin, Honorable Mention Award, Transportation Management Technology Competition. The 16th International Workshop on Computational Transportation Science (CTS), 2025.
 
+## Dr FAN
+#### Courses @ SWJTU
+1. [Fundamental Models for Public Transportation](https://faculty.swjtu.edu.cn/fanwenbo/zh_CN/jxzy/109473/content/1698.htm#jxzy)
+2. [Transportation System Simulation](https://faculty.swjtu.edu.cn/fanwenbo/zh_CN/jxzy/109473/content/1665.htm#jxzy)
+3. Travel Demand Management
+
+#### Resource
+- Videos of recorded courses are available [here](https://space.bilibili.com/2034832179/lists).
+- Lecture slides are available [here](https://faculty.swjtu.edu.cn/fanwenbo/zh_CN/jxzy/109473/list/index.htm).

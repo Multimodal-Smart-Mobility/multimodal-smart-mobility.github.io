@@ -9,4 +9,4 @@ nav:
 
 {% include section.html %}
 
-2025/08&nbsp;&nbsp;&nbsp;Our lab website is built!
+**2025/08**    Our lab website is built!
