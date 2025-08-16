@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+## Dr. GU
+
 #### As Principal Investigator
 
 1.	Otto Poon Charitable Foundation Smart Cities Research Institute (PolyU). Interdisciplinary Research Fund in Smart Cities, 12/2025~11/2027. 
@@ -62,3 +64,14 @@ Amount awarded: HK$ 582,000.
 Continuum approximation based transit network and station-area land use integrated strategic planning. 
 PI: Wenbo Fan (Southwest Jiaotong University). 
 Amount awarded: CNY¥ 200,000.
+
+## Dr. FAN
+
+#### As Principal Investigator
+
+1. Sichuan Science & Technology Program (Grant No. 2020YFH003), 2020– 2022. Prediction and Control of Large-volume Passenger Flow in Urban Rail Transit by Integrating Multiple Data Sources. Amount awarded: 200k RMB
+
+2. National Natural Science Foundation of China (Project No. 51608455), 2017–2019. Continuum Approximation based Transit Network and Station-Area Land Use Integrated Strategic Planning. Amount awarded: 200k RMB.
+
+#### As co-Investigator
+1. Research Grant Council (Hong Kong) General Research Fund, 2019–2021. Optimal Design and Operations of Urban Transit Networks Fed by Customized Demand-Responsive Connectors. Amount awarded: HK$ 632,421.

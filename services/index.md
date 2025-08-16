@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Services
 
 {% include section.html %}
-
+## Dr. GU
 #### Editorships & Conference Organizations
 1.	**Associate Editor**, Transportation Science. (2024-present)
 2.	**Associate Editor**, Transportmetrica B: Transport Dynamics. (2020-present)
@@ -85,3 +85,23 @@ nav:
 9.	Member, Department Committee on the Master of Science Programme, 2018-2022.
 10.	Member, Department Student Staff Consultative Group, 2014-2018.
 
+## Dr. FAN
+#### Editorial Board Member
+- Scientific Reports (Nature Portfolio)
+
+#### Reviewer
+- Transportation Science,
+- Transportation Research Part A, Part B, Part C, Part E,
+- Transport Policy,
+- IEEE Transactions on Intelligent Transportation Systems,
+- Journal of Transport Geography,
+- Transportation,
+- Transportmetrica A, B,
+- Journal of Advanced Transportation,
+- Journal of Public Transportation, etc.
+
+#### Chief Scientist
+- Chengdu Intelligent & Omnipotent Technology Co., Ltd.
+
+#### Consulting Expert
+- Sichuan Public Transportation Association
