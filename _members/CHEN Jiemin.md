@@ -1,6 +1,6 @@
 ---
 name: CHEN Jieming
-image: images/photo.jpg
+image: images/team/CHEN_Jieming.jpg
 role: postdoc
 order: 2
 bg: 
