@@ -7,9 +7,9 @@ order: 4
 
 links:
   home-page: 
-  orcid: https://orcid.org/0009-0005-4354-2816
-  google-scholar: https://scholar.google.com/citations?user=bkej6IoAAAAJ&hl=zh-CN
-  github: https://github.com/YuLi2022
+  orcid: 0009-0005-4354-2816
+  google-scholar: bkej6IoAAAAJ
+  github: YuLi2022
   email: yuuts.li@connect.polyu.hk
   profile: 
 
