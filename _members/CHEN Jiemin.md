@@ -14,7 +14,7 @@ links:
   profile: 
 
 
-bg: Ph.D., M.Sc., B.Eng.
+bg: Ph.D.(PolyU), M.Sc.(TUK), B.Eng.(SMU)
 time: 2025 - Present 
 ---
 
