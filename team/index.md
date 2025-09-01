@@ -31,13 +31,13 @@ nav:
 6.	**Minyu Shen**, (Associate Professor, Southwestern University of Finance and Economics), 10/2020-08/2021  
 
 ##### Research Postgraduate Students
-1.	**Nathalie Saade**, PhD, University of California, Berkeley; co-supervised with Prof. Michael Cassidy (Meta.), 2017  
-2.	**Yu Mei**, PhD, Hong Kong Polytechnic University; Chief Supervisor (Baidu), 2019  
-3.	**Le Zhang**, PhD, Hong Kong Polytechnic University; Chief Supervisor (Associate Professor, Nanjing University of Science & Technology), 2019  
-4.	**Minyu Shen**, PhD, Hong Kong Polytechnic University; Chief Supervisor (Associate Professor, Southwestern University of Finance and Economics), 2020  
-5.	**Liyu Wu**, PhD, Hong Kong Polytechnic University; Chief Supervisor (Arup Hong Kong), 2021  
+1.	**Nathalie Saade (Meta)**, PhD, University of California, Berkeley; co-supervised with Prof. Michael Cassidy, 2017  
+2.	**Yu Mei (Baidu)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2019  
+3.	**Le Zhang (Associate Professor, Nanjing University of Science & Technology)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2019  
+4.	**Minyu Shen (Associate Professor, Southwestern University of Finance and Economics)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2020  
+5.	**Liyu Wu (Arup Hong Kong)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2021  
 6.	**Xiao Yang**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2022  
-7.	**Qiaolin Hu**, PhD, Hong Kong Polytechnic University; Chief Supervisor (Assistant Professor, Nanjing University of Science & Technology), 2022  
+7.	**Qiaolin Hu (Assistant Professor, Nanjing University of Science & Technology)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2022  
 
 
 
