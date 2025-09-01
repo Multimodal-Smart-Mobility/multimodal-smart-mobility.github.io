@@ -3,18 +3,19 @@
 
 # About Us
 
-Multimodal Smart Mobility (MSM) focuses on public transportation systems, multimodal urban transportation systems, traffic operations, queueing models, infrastructure management, electric vehicles, and maritime transportation. We are especially interested in how various transportation modes including cars, buses, rail, and bicycles interact in urban networks, and how to optimally design and manage such a multimodal urban transportation system for the benefit of all.
+The Multimodal Smart Mobility (MSM) Lab is dedicated to developing smart and forward-thinking solutions for urban transportation. Our research focuses on the complex interactions between various modes—including cars, buses, rail, and bicycles—within city networks. We aim to optimally design and manage these integrated systems through rigorous analysis in areas such as public transit operations, traffic network control, queueing theory, infrastructure management, and new energy vehicles. Our ultimate goal is to create more efficient, sustainable, and equitable mobility for all.
 
 ## Research Interests
 <div style="float: left; margin-right: 15px;">
-  <img src="https://github.com/Multimodal-Smart-Mobility/Multimodal-Smart-Mobility.github.io/raw/main/images/projects/queue/bus_queue.jpg#pic_left" alt="Research Interests" width="300">
+  <img src="https://github.com/Multimodal-Smart-Mobility/Multimodal-Smart-Mobility.github.io/raw/main/images/interests.png#pic_left" alt="Research Interests" width="400">
 </div>
 <p>
--	Public transportation systems planning, design, operations, and control<br>
--	New energy vehicles<br>
 -	Multimodal traffic operations<br>
--	Queueing systems in transportation<br>
--	Transportation infrastructure and asset management<br>
+-	Autonomous, modular and electric urban transit<br>
+-	Shared mobility<br>
+-	New energy vehicles<br>
+-	Queueing systems<br>
+-	Infrastructure and asset management<br>
 -	Maritime operations<br>
 </p>
 

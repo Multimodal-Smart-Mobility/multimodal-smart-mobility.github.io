@@ -8,10 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: weihua.gu@polyu.edu.hk
-  orcid: 0000-0003-3848-4840
-  google-scholar: 0m7hMYkAAAAJ
-  github: Gu-Weihua
+  #email: weihua.gu@polyu.edu.hk
+  #orcid: 0000-0003-3848-4840
+  #google-scholar: 0m7hMYkAAAAJ
+  #github: Gu-Weihua
   #twitter: Gu-Weihua
   #youtube: Gu-Weihua
 

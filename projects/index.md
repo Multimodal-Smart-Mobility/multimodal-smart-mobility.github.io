@@ -1,7 +1,7 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 3
   tooltip: Projects, datasets, and more
 ---
 
@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Dr GU
+## GU Weihua
 
 #### As Principal Investigator
 
@@ -53,19 +53,7 @@ Amount awarded: HK$ 706,737.
 Optimal design and operation of public transportation systems in a congested city. 
 Amount awarded: HK$ 700,000.
 
-#### As co-Investigator
-
-1.	Research Grant Council (Hong Kong). General Research Fund, 01/2018~12/2020. 
-A data-driven framework for airspace congestion analysis using aircraft tracking data. 
-PI: Lishuai Li (City University of Hong Kong). 
-Amount awarded: HK$ 582,000.
-
-2.	National Natural Science Foundation of China, 01/2017~12/2019. 
-Continuum approximation based transit network and station-area land use integrated strategic planning. 
-PI: Wenbo Fan (Southwest Jiaotong University). 
-Amount awarded: CNY¥ 200,000.
-
-## Dr FAN
+## FAN Wenbo
 
 #### As Principal Investigator
 
@@ -74,6 +62,3 @@ Amount awarded: CNY¥ 200,000.
 2. National Natural Science Foundation of China (Project No. 51608455), 2017–2019. Continuum Approximation based Transit Network and Station-Area Land Use Integrated Strategic Planning. Amount awarded: 200k RMB.
 
 3. Multiple consulting projects for local companies and transportation departments. 500+k RMB.
-
-#### As co-Investigator
-1. Research Grant Council (Hong Kong) General Research Fund, 2019–2021. Optimal Design and Operations of Urban Transit Networks Fed by Customized Demand-Responsive Connectors. Amount awarded: HK$ 632,421.
