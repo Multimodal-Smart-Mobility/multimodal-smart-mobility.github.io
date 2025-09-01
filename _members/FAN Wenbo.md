@@ -28,6 +28,7 @@ His research has been featured by the U.S. media outlet Next City. He is a recip
 
 Dr. Fan has successfully supervised 25 master’s students and 2 Ph.D. candidates to graduation.
 
+  
 **Education and Academic Qualifications**
 - Bachelor of Transportation Engineering, Southwest Jiaotong University
 - Doctor of Philosophy, Southwest Jiaotong University
