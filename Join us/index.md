@@ -27,3 +27,5 @@ Scholarship opportunities:
 -	A degree for which English was the language of instruction / IELTS 6.5 / TOEFL (Internet-based test) 80.
 
 Students with interest are welcome to send their resume and transcripts to either Dr GU [(weihua.gu@polyu.edu.hk)](weihua.gu@polyu.edu.hk) or Dr FAN [(wenbo.fan@polyu.edu.hk)](wenbo.fan@polyu.edu.hk).
+
+

@@ -6,9 +6,8 @@ affiliation: Research Assistant Professor
 order: 2
 
 links:
-  home-page: 
   orcid: 0000-0002-4525-9812
-  google-scholar: vmhkqoAAAAJ
+  google-scholar: _vmhkqoAAAAJ
   github: 
   email: wenbo.fan@polyu.edu.hk
   profile: 
