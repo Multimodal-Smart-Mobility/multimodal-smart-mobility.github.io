@@ -5,7 +5,7 @@ nav:
   tooltip: Services
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Services
+# {% include icon.html icon="fa-solid fa-pen-nib" %}Services
 
 {% include section.html %}
 ## GU Weihua
