@@ -15,6 +15,7 @@ We are seeking highly motivated PhD candidates to join our research team. We wel
 -	Electric & Future Mobility: Planning and management of electric vehicle charging infrastructure, fleet electrification, and vehicle-to-grid (V2G) systems.
 -	Urban Air Mobility (UAM): Network design, operational logistics, and economic analysis for the emerging low-altitude economy (e.g., drone delivery, eVTOLs).
 -	AI in Transportation: Development and application of advanced AI models (e.g., reinforcement learning, LLM, foundation models) for traffic prediction, control, and simulation.
+
 ### Scholarship opportunities:
 -	The Hong Kong PhD Fellowship Scheme (HKPFS): monthly stipend of 28,400 HKD, tuition and fee waiver, cash award, and annual travel grant. See details in [https://www.polyu.edu.hk/gs/prospective-students/hkpfs/](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/)
 -	PolyU Presidential PhD Felloship Scheme (PPPFS): monthly stipend of 28,100 HKD, tuition and fee waiver, cash award, and travel grant. See details in [https://www.polyu.edu.hk/gs/prospective-students/hkpfs/](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/) 
