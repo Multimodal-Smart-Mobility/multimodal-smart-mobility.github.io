@@ -31,13 +31,15 @@ nav:
 6.	**Minyu Shen**, (Associate Professor, Southwestern University of Finance and Economics), 10/2020-08/2021  
 
 ##### Research Postgraduate Students
-1.	**Nathalie Saade (Meta)**, PhD, University of California, Berkeley; co-supervised with Prof. Michael Cassidy, 2017  
-2.	**Yu Mei (Baidu)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2019  
-3.	**Le Zhang (Associate Professor, Nanjing University of Science & Technology)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2019  
-4.	**Minyu Shen (Associate Professor, Southwestern University of Finance and Economics)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2020  
-5.	**Liyu Wu (Arup Hong Kong)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2021  
-6.	**Xiao Yang**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2022  
-7.	**Qiaolin Hu (Assistant Professor, Nanjing University of Science & Technology)**, PhD, Hong Kong Polytechnic University; Chief Supervisor, 2022  
+1.	**Nathalie Saade (Meta)**, PhD (2017), University of California, Berkeley; Co-supervised by Dr GU and Prof. Michael Cassidy  
+2.	**Yu Mei (Baidu)**, PhD (2019), Hong Kong Polytechnic University; Chief Supervisor: Dr GU 
+3.	**Le Zhang (Associate Professor, Nanjing University of Science & Technology)**, PhD (2019), Hong Kong Polytechnic University; Chief Supervisor: Dr GU  
+4.	**Minyu Shen (Associate Professor, Southwestern University of Finance and Economics)**, PhD (2020), Hong Kong Polytechnic University; Chief Supervisor: Dr GU  
+5.	**Liyu Wu (Arup Hong Kong)**, PhD (2021), Hong Kong Polytechnic University; Chief Supervisor: Dr GU  
+6.	**Xiao Yang**, PhD (2022), Hong Kong Polytechnic University; Chief Supervisor: Dr GU  
+7.	**Qiaolin Hu (Assistant Professor, Nanjing University of Science & Technology)**, PhD (2022), Hong Kong Polytechnic University; Chief Supervisor: Dr GU
+8.  **[Xiaoling Luo](https://www.researchgate.net/profile/Xiaoling-Luo-3) (Assistant Professor, Chongqing Jiaotong University)**, PhD (2020), Southwest Jiaotong University; Co-supervised by Dr FAN
+9.  **[Yue Su](https://ysu1028.github.io/cv/) (Associate professor, Université de Lille)**, MS (2019), Southwest Jiaotong University; Co-supervised by Dr FAN 
 
 
 
