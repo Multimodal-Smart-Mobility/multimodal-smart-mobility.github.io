@@ -10,10 +10,10 @@ links:
   orcid: 
   google-scholar: 
   github: 
-  email:
+  email: 25036416r@connect.polyu.hk
   profile: 
 
-bg: M.Sc.(Tongji University), B.Eng. (Tongji University)
+bg: M.Sc.(TJU), B.Eng. (TJU)
 time: 2025 - Present 
 ---
 
