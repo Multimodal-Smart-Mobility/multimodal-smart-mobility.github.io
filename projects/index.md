@@ -62,3 +62,6 @@ Amount awarded: HK$ 700,000.
 2. National Natural Science Foundation of China (Project No. 51608455), 2017–2019. Continuum Approximation based Transit Network and Station-Area Land Use Integrated Strategic Planning. Amount awarded: 200k RMB.
 
 3. Multiple consulting projects for local companies and transportation departments. 500+k RMB.
+
+## Research resrouces
+Open-source simulation platform for on-demand feeder services [here](https://github.com/yxt19981119/SUMO-RPaF)
