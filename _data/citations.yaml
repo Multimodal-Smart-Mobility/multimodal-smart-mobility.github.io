@@ -1,0 +1,862 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1287/trsc.2024.0890
+  title: Cognitive Hierarchy in Day-to-Day Network Flow Dynamics
+  authors:
+  - Minyu Shen
+  - Feng Xiao
+  - Weihua Gu
+  - Hongbo Ye
+  publisher: Transportation Science
+  date: '2025-07-21'
+  link: https://doi.org/g9vfsq
+  image: images/publications/Cognitive2025.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2025.105149
+  title: Comparing skip-stop and all-stop transit network designs
+  authors:
+  - Li Zhen
+  - Weihua Gu
+  - Xiaokuan Zhao
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2025-07-01'
+  link: https://doi.org/g9tcz8
+  image: images/publications/Comparing2025.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TTE.2024.3523922
+  title: 'Real-Time Planning of Route, Speed, and Charging for Electric Delivery Vehicles:
+    A Deep Reinforcement Learning Approach'
+  authors:
+  - Xiaowen Bi
+  - Minyu Shen
+  - Weihua Gu
+  - Edward Chung
+  - Yuhong Wang
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2025-04-01'
+  link: https://doi.org/g9tcz9
+  image: images/publications/Real-Time2025.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mice.13354
+  title: "An adversarial diverse deep ensemble approach for surrogate\u2010based traffic\
+    \ signal optimization"
+  authors:
+  - Zhixian Tang
+  - Ruoheng Wang
+  - Edward Chung
+  - Weihua Gu
+  - Hong Zhu
+  publisher: Computer-Aided Civil and Infrastructure Engineering
+  date: '2024-10-12'
+  link: https://doi.org/g9v7mj
+  image: images/publications/An2025.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tra.2024.104214
+  title: Feeder bus service design under spatially heterogeneous demand
+  authors:
+  - Li Zhen
+  - Weihua Gu
+  publisher: 'Transportation Research Part A: Policy and Practice'
+  date: '2024-11-01'
+  link: https://doi.org/g9tc2b
+  image: images/publications/Feeder2024.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2024.102964
+  title: Optimal design of ride-pooling as on-demand feeder services
+  authors:
+  - Wenbo Fan
+  - Weihua Gu
+  - Meng Xu
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2024-07-01'
+  link: https://doi.org/g9v7mk
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2024.103545
+  title: Optimal autonomous truck platooning with detours, nonlinear costs, and a
+    platoon size constraint
+  authors:
+  - Qiaolin Hu
+  - Weihua Gu
+  - Lingxiao Wu
+  - Le Zhang
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2024-06-01'
+  link: https://doi.org/g9tc2c
+  image: images/publications/Optimal_hu2024.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mice.13134
+  title: On the role of time-of-use electricity price in charge scheduling for electric bus fleets
+  authors:
+  - Le Zhang
+  - Yadong Wang
+  - Weihua Gu
+  - Yu Han
+  - Edward Chung
+  - Xiaobo Qu
+  publisher: Computer-Aided Civil and Infrastructure Engineering
+  date: '2023-12-07'
+  link: https://doi.org/g9v7mm
+  image: images/publications/On2024.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ocecoaman.2023.106809
+  title: Optimal scheduling of vessels passing a waterway bottleneck
+  authors:
+  - Xiao Yang
+  - Weihua Gu
+  - Shuaian Wang
+  publisher: Ocean &amp; Coastal Management
+  date: '2023-10-01'
+  link: https://doi.org/gzmd39
+  image: images/publications/Optimal_yang2023_2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2023.104269
+  title: Efficient heuristic methods for berth allocation at multi-line, multi-berth
+    curbside bus stops
+  authors:
+  - Minyu Shen
+  - Weihua Gu
+  - Sangen Hu
+  - Feng Xiao
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2023-09-01'
+  link: https://doi.org/gtwtwg
+  image: images/publications/Efficient2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tra.2023.103702
+  title: Impacts of bus overtaking policies on the capacity of bus stops
+  authors:
+  - Sangen Hu
+  - Minyu Shen
+  - Weihua Gu
+  publisher: 'Transportation Research Part A: Policy and Practice'
+  date: '2023-07-01'
+  link: https://doi.org/g9tc2d
+  image: images/publications/Impacts2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/J.TRC.2023.104054
+  title: Condition-based pavement management systems accounting for model uncertainty
+    and facility heterogeneity with belief updates
+  authors:
+  - Le Zhang
+  - Weihua Gu
+  - Young-Ji Byon
+  - Jinwoo Lee
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2023-03-01'
+  link: https://doi.org/nb8h
+  image: images/publications/Condition-based2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ocecoaman.2022.106386
+  title: Optimal scheduling of autonomous vessel trains in a hub-and-spoke network
+  authors:
+  - Xiao Yang
+  - Weihua Gu
+  - Wei Wang
+  - Shuaian Wang
+  publisher: Ocean &amp; Coastal Management
+  date: '2023-01-01'
+  link: https://doi.org/gwm9bd
+  image: images/publications/Optimal_yang2023_1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2022.102656
+  title: Dynamic demand-driven bike station clustering
+  authors:
+  - Yi-Jia Wang
+  - Yong-Hong Kuo
+  - George Q. Huang
+  - Weihua Gu
+  - Yaohua Hu
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2022-04-01'
+  link: https://doi.org/g9tc2f
+  image: images/publications/Dynamic2022.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2021.102561
+  title: Optimal subsidy scheme design for promoting intermodal freight transport
+  authors:
+  - Qiaolin Hu
+  - Weihua Gu
+  - Shuaian Wang
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2022-01-01'
+  link: https://doi.org/g9v7mn
+  image: images/publications/Optimal_hu2022.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2021.103366
+  title: Joint design of shared-bike and transit services in corridors
+  authors:
+  - Xiaoling Luo
+  - Weihua Gu
+  - Wenbo Fan
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2021-11-01'
+  link: https://doi.org/gn3sqf
+  image: images/publications/Joint2021.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2021.06.008
+  title: Planning skip-stop transit service under heterogeneous demands
+  authors:
+  - Yu Mei
+  - Weihua Gu
+  - Michael Cassidy
+  - Wenbo Fan
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2021-08-01'
+  link: https://doi.org/gn3sq5
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2021.103211
+  title: An integrated intersection design for promoting bus and car traffic
+  authors:
+  - Weihua Gu
+  - Yu Mei
+  - Haoyu Chen
+  - Yiguang Xuan
+  - Xiaochun Luo
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2021-07-01'
+  link: https://doi.org/g9v7mp
+  image: images/publications/An2021.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2021.102268
+  title: A two-stage heuristic approach for fleet management optimization under time-varying
+    demand
+  authors:
+  - Le Zhang
+  - Weihua Gu
+  - Liangliang Fu
+  - Yu Mei
+  - Yaohua Hu
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2021-03-01'
+  link: https://doi.org/g8mvz9
+  image: images/publications/Atwo2021.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2020.102051
+  title: A simulation-based approach for assessing seaside infrastructure improvement
+    measures for large marine crude oil terminals
+  authors:
+  - Xuejun Feng
+  - Sangen Hu
+  - Weihua Gu
+  - Xin Jin
+  - Yuan Lu
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2020-10-01'
+  link: https://doi.org/g9v7mr
+  image: images/publications/Asimulation2020.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2020.102623
+  title: 'Achieving higher taxi outflows from a drop-off lane: A simulation-based
+    study'
+  authors:
+  - Fangyi Yang
+  - Weihua Gu
+  - Michael J. Cassidy
+  - Xin Li
+  - Tiezhu Li
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2020-06-01'
+  link: https://doi.org/gpx6fp
+  image: images/publications/Achieving2020.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2019.11.003
+  title: Optimal design of transit networks fed by shared bikes
+  authors:
+  - Liyu Wu
+  - Weihua Gu
+  - Wenbo Fan
+  - Michael J. Cassidy
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2020-01-01'
+  link: https://doi.org/ghtvk6
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2019.10.006
+  title: A Bayesian approach for estimating vehicle queue lengths at signalized intersections
+    using probe vehicle data
+  authors:
+  - Yu Mei
+  - Weihua Gu
+  - Edward C.S. Chung
+  - Fuliang Li
+  - Keshuang Tang
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2019-12-01'
+  link: https://doi.org/gjh7tj
+  image: images/publications/ABayesian2019.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2019.04.010
+  title: Capacity approximations for near- and far-side bus stops in dedicated bus
+    lanes
+  authors:
+  - Minyu Shen
+  - Weihua Gu
+  - Sangen Hu
+  - Han Cheng
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2019-07-01'
+  link: https://doi.org/g9tc2g
+  image: images/publications/Capacity2019.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aap.2019.02.029
+  title: Analyzing freeway crash severity using a Bayesian spatial generalized ordered
+    logit model with conditional autoregressive priors
+  authors:
+  - Qiang Zeng
+  - Weihua Gu
+  - Xuan Zhang
+  - Huiying Wen
+  - Jinwoo Lee
+  - Wei Hao
+  publisher: Accident Analysis &amp; Prevention
+  date: '2019-06-01'
+  link: https://doi.org/ggzbnf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2018.03.007
+  title: Optimal design of intersecting bimodal transit networks in a grid city
+  authors:
+  - Wenbo Fan
+  - Yu Mei
+  - Weihua Gu
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2018-05-01'
+  link: https://doi.org/gdmj3w
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2017.09.014
+  title: A general iterative approach for the system-level joint optimization of pavement
+    maintenance, rehabilitation, and reconstruction planning
+  authors:
+  - Le Zhang
+  - Liangliang Fu
+  - Weihua Gu
+  - Yanfeng Ouyang
+  - Yaohua Hu
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2017-11-01'
+  link: https://doi.org/gcmvm8
+  image: images/publications/AGeneral2018.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2017.08.010
+  title: Optimal loading of double-stack container trains
+  authors:
+  - Amit Upadhyay
+  - Weihua Gu
+  - Nomesh Bolia
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2017-11-01'
+  link: https://doi.org/gcgs77
+  image: images/publications/Optimal2017.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2016.07.010
+  title: Exploring alternative service schemes for busy transit corridors
+  authors:
+  - Weihua Gu
+  - Zahra Amini
+  - Michael J. Cassidy
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2016-11-01'
+  link: https://doi.org/f9cdmd
+  image: images/publications/Exploring2016.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/21680566.2015.1052111
+  title: On the impact of obstructions on the capacity of nearby signalised intersections
+  authors:
+  - Vikash V. Gayah
+  - S. Ilgin Guler
+  - Weihua Gu
+  publisher: 'Transportmetrica B: Transport Dynamics'
+  date: '2015-06-11'
+  link: https://doi.org/g9tc2k
+  image: images/publications/On2016.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2015.06.012
+  title: 'Optimal transit service atop ring-radial and grid street networks: A continuum
+    approximation design method and comparisons'
+  authors:
+  - Haoyu Chen
+  - Weihua Gu
+  - Michael J. Cassidy
+  - Carlos F. Daganzo
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2015-11-01'
+  link: https://doi.org/f74k67
+  image: images/publications/Optimal2015.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1287/trsc.2014.0537
+  title: Models of Bus Queueing at Curbside Stops
+  authors:
+  - Weihua Gu
+  - Michael J. Cassidy
+  - Yuwei Li
+  publisher: Transportation Science
+  date: '2015-05-01'
+  link: https://doi.org/f7dhs6
+  image: images/publications/Models2015.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tra.2015.07.001
+  title: 'A problem of limited-access special lanes. Part I: Spatiotemporal studies
+    of real freeway traffic'
+  authors:
+  - Michael J. Cassidy
+  - Kwangho Kim
+  - Wei Ni
+  - Weihua Gu
+  publisher: 'Transportation Research Part A: Policy and Practice'
+  date: '2015-10-01'
+  link: https://doi.org/g9tc2h
+  image: images/publications/AProblem_partI2015.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tra.2015.07.003
+  title: 'A problem of limited-access special lanes. Part II: Exploring remedies via
+    simulation'
+  authors:
+  - Michael J. Cassidy
+  - Kwangho Kim
+  - Wei Ni
+  - Weihua Gu
+  publisher: 'Transportation Research Part A: Policy and Practice'
+  date: '2015-10-01'
+  link: https://doi.org/f7t3g4
+  image: images/publications/AProblem_partII2015.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2112/SI73-109.1
+  title: Optimal Throughput of Crude Oil Terminals with Options for Infrastructure
+    Improvements
+  authors:
+  - Xuejun Feng
+  - Mingong Wang
+  - Yuwei Li
+  - Weihua Gu
+  - Yan Zhang
+  publisher: Journal of Coastal Research
+  date: '2015-03-03'
+  link: https://doi.org/f669qc
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2014.06.001
+  title: 'On the impacts of bus stops near signalized intersections: Models of car
+    and bus delays'
+  authors:
+  - Weihua Gu
+  - Vikash V. Gayah
+  - Michael J. Cassidy
+  - Nathalie Saade
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2014-10-01'
+  link: https://doi.org/f6kzdt
+  image: images/publications/On2014.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2013.08.005
+  title: Maximizing bus discharge flows from multi-berth stops by regulating exit
+    maneuvers
+  authors:
+  - Weihua Gu
+  - Michael J. Cassidy
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2013-10-01'
+  link: https://doi.org/f5fj88
+  image: images/publications/Maximizing2013.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2012.09.005
+  title: Mitigating negative impacts of near-side bus stops on cars
+  authors:
+  - Weihua Gu
+  - Michael J. Cassidy
+  - Vikash V. Gayah
+  - Yanfeng Ouyang
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2013-01-01'
+  link: https://doi.org/f4ndf5
+  image: images/publications/Mitigating2013.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2011.12.002
+  title: Joint optimization of pavement maintenance and resurfacing planning
+  authors:
+  - Weihua Gu
+  - Yanfeng Ouyang
+  - Samer Madanat
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2012-05-01'
+  link: https://doi.org/g9tc2p
+  image: images/publications/Joint2012.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2012.08.006
+  title: 'On the capacity of highway checkpoints: Models for unconventional configurations'
+  authors:
+  - Weihua Gu
+  - Michael J. Cassidy
+  - Yuwei Li
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2012-12-01'
+  link: https://doi.org/g9tc2q
+  image: images/publications/On2012.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trb.2011.01.001
+  title: On the capacity of isolated, curbside bus stops
+  authors:
+  - Weihua Gu
+  - Yuwei Li
+  - Michael J. Cassidy
+  - Julia B. Griswold
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2011-05-01'
+  link: https://doi.org/cfhpzb
+  image: images/publications/On2011.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2025.105245
+  title: Optimal design of on-demand modular feeder transit services
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  - Meng Xu
+  - Xiaotian Yan
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2025-09-01'
+  link: https://doi.org/g9w9mv
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2025.105181
+  title: Novel operational algorithms for ride-pooling as on-demand feeder services
+  authors:
+  - Wenbo Fan
+  - Xiaotian Yan
+  - Zhanbo Sun
+  - Xiaohui Yang
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2025-09-01'
+  link: https://doi.org/g9w9mw
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2024.124180
+  title: 'Optimizing service design for the intercity demand responsive transit system:
+    Model, algorithm, and comparative analysis'
+  authors:
+  - Rong Zheng
+  - Hongtai Yang
+  - Wenbo Fan
+  - Donggen Wang
+  publisher: Expert Systems with Applications
+  date: '2024-11-01'
+  link: https://doi.org/g9w9mx
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2024.104739
+  title: "Macroscopic fundamental diagram with volume\u2013delay relationship: Model\
+    \ derivation, empirical validation and invariance property"
+  authors:
+  - Ke Han
+  - Tao Huang
+  - Wenbo Fan
+  - Qian Ge
+  - Shihui Dong
+  - Xuting Wang
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2024-09-01'
+  link: https://doi.org/g9fqdj
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2023.103114
+  title: Joint design of electric bus transit service and wireless charging facilities
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2023-06-01'
+  link: https://doi.org/g9w9mz
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1061/(ASCE)UP.1943-5444.0000786
+  title: 'Bilevel Programming Model for Park-and-Ride Versus Transit-Oriented Development:
+    A Case Study of Chengdu City, China'
+  authors:
+  - Jinlong Li
+  - Xia Luo
+  - Hongjie Wang
+  - Yuansen Qiu
+  - Wenbo Fan
+  publisher: Journal of Urban Planning and Development
+  date: '2022-03-01'
+  link: https://doi.org/g9w9m2
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:/10.1016/j.trc.2021.103366
+  title: Joint design of shared-bike and transit services in corridors
+  authors:
+  - Xiaoling Luo
+  - Weihua Gu
+  - Wenbo Fan
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2021-11-01'
+  link: https://doi.org/gn3sqf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2021.102600
+  title: Managing bottleneck congestion with tradable credits under asymmetric transaction
+    cost
+  authors:
+  - Wenbo Fan
+  - Feng Xiao
+  - Yu (Macro) Nie
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2022-02-01'
+  link: https://doi.org/g9w9m3
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITS.2021.3054678
+  title: Optimal Design for Demand Responsive Connector Service Considering Elastic
+    Demand
+  authors:
+  - Hongtai Yang
+  - Zhaolin Zhang
+  - Wenbo Fan
+  - Feng Xiao
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-04-01'
+  link: https://doi.org/g9w9m4
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aap.2020.105936
+  title: Bayesian networks for imbalance data to investigate the contributing factors
+    to fatal injury crashes on the Ghanaian highways
+  authors:
+  - Mahama Yahaya
+  - Runhua Guo
+  - Wenbo Fan
+  - Kamal Bashir
+  - Yingfei Fan
+  - Shiwei Xu
+  - Xinguo Jiang
+  publisher: Accident Analysis &amp; Prevention
+  date: '2021-02-01'
+  link: https://doi.org/g9w9m5
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2020.102119
+  title: Planning skip-stop services with schedule coordination
+  authors:
+  - Wenbo Fan
+  - Yu Ran
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2021-01-01'
+  link: https://doi.org/gn3sr2
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/19439962.2019.1580326
+  title: Examining the factors influencing the injury severity of crashes on arterials
+    with signal coordination
+  authors:
+  - Guopeng Zhang
+  - Xinguo Jiang
+  - Yingfei Fan
+  - Wenbo Fan
+  - Teng Meng
+  publisher: Journal of Transportation Safety &amp; Security
+  date: '2019-03-22'
+  link: https://doi.org/g9w9m6
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/17457300.2020.1746814
+  title: 'A machine-learning method for improving crash injury severity analysis:
+    a case study of work zone crashes in Cairo, Egypt'
+  authors:
+  - Mahama Yahaya
+  - Wenbo Fan
+  - Chuanyun Fu
+  - Xiang Li
+  - Yue Su
+  - Xinguo Jiang
+  publisher: International Journal of Injury Control and Safety Promotion
+  date: '2020-04-01'
+  link: https://doi.org/g9w9m7
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2020.2996084
+  title: Schedule Coordination Design in a Trunk-Feeder Transit Corridor With Spatially
+    Heterogeneous Demand
+  authors:
+  - Yi Yang
+  - Xinguo Jiang
+  - Wenbo Fan
+  - Yusong Yan
+  - Liang Xia
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9w9m8
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2020/8872748
+  title: Optimal Design of Bus Stop Locations Integrating Continuum Approximation
+    and Discrete Models
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  - Yangsheng Jiang
+  - Jun Zhang
+  publisher: Journal of Advanced Transportation
+  date: '2020-09-07'
+  link: https://doi.org/g66d28
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0195927
+  title: Modeling an enhanced ridesharing system with meet points and time windows
+  authors:
+  - Xin Li
+  - Sangen Hu
+  - Wenbo Fan
+  - Kai Deng
+  publisher: PLOS ONE
+  date: '2018-05-01'
+  link: https://doi.org/g9w9m9
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3141/2628-09
+  title: Use of Statewide Models as a Decision Tool for Zero-Emission Vehicles Deployment
+  authors:
+  - Wenbo Fan
+  - Sevgi Erdogan
+  - Timothy F. Welch
+  - Frederick W. Ducca
+  publisher: 'Transportation Research Record: Journal of the Transportation Research
+    Board'
+  date: '2017-01-01'
+  link: https://doi.org/g9w9nb
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aap.2015.09.006
+  title: Safety evaluation of signalized intersections with left-turn waiting area
+    in China
+  authors:
+  - Xinguo Jiang
+  - Guopeng Zhang
+  - Wei Bai
+  - Wenbo Fan
+  publisher: Accident Analysis &amp; Prevention
+  date: '2016-10-01'
+  link: https://doi.org/f842fq
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tranpol.2016.03.001
+  title: Modeling and evaluating FAIR highway performance and policy options
+  authors:
+  - Wenbo Fan
+  - Xinguo Jiang
+  - Sevgi Erdogan
+  - Yanshuo Sun
+  publisher: Transport Policy
+  date: '2016-05-01'
+  link: https://doi.org/g9w9nc
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/15389588.2014.936012
+  title: Differences in Injury Severities Between 2-Vehicle and 3-Vehicle Crashes
+  authors:
+  - Xinguo Jiang
+  - Haitao Zheng
+  - Yanjun Qiu
+  - Wenbo Fan
+  publisher: Traffic Injury Prevention
+  date: '2014-12-06'
+  link: https://doi.org/g9w9nd
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1061/(ASCE)UP.1943-5444.0000178
+  title: Bilevel Programming Model for Locating Park-and-Ride Facilities
+  authors:
+  - Wenbo Fan
+  - Muhammad Babar Khan
+  - Jian Ma
+  - Xinguo Jiang
+  publisher: Journal of Urban Planning and Development
+  date: '2014-09-01'
+  link: https://doi.org/gjsj2q
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tranpol.2013.09.002
+  title: 'Tradable mobility permits in roadway capacity allocation: Review and appraisal'
+  authors:
+  - Wenbo Fan
+  - Xinguo Jiang
+  publisher: Transport Policy
+  date: '2013-11-01'
+  link: https://doi.org/f5m49f
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4236/jtts.2012.23028
+  title: Modeling the Parking Pricing of Multiple Parking Facilities under Different
+    Operation Regimes
+  authors:
+  - Fan Wenbo
+  - Muhammad Babar Khan
+  publisher: Journal of Transportation Technologies
+  date: '2012-01-01'
+  link: https://doi.org/g9w9nf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
