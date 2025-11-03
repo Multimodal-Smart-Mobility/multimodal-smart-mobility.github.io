@@ -41,8 +41,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mice.13354
-  title: "An adversarial diverse deep ensemble approach for surrogate\u2010based traffic\
-    \ signal optimization"
+  title: An adversarial diverse deep ensemble approach for surrogate-based traffic signal optimization
   authors:
   - Zhixian Tang
   - Ruoheng Wang
