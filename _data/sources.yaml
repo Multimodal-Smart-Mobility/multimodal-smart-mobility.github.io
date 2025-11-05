@@ -114,7 +114,7 @@
 - id: doi:10.1080/17457300.2020.1746814
   image: images/publications/Fan/Amachine2020.jpg
 - id: doi:10.1109/ACCESS.2020.2996084
-  image: images/publications/Fan/Schedule2020.jpg
+  image: images/publications/Fan/Schedule2020.png
 - id: doi:10.1155/2020/8872748
   image: images/publications/Fan/Optimal2020_1.png
 - id: doi:10.1016/j.trb.2019.11.003
@@ -136,4 +136,4 @@
 - id: doi:10.1016/j.tranpol.2013.09.002
   image: images/publications/Fan/Tradable2013.jpg
 - id: doi:10.4236/jtts.2012.23028
-  image: images/publications/Fan/Modeling2012.jpg
+  image: images/publications/Fan/Modeling2012.png

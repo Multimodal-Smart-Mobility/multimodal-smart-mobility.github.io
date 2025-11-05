@@ -8,7 +8,7 @@
   - Weihua Gu
   - Hongbo Ye
   publisher: Transportation Science
-  date: '2025-09-01'
+  date: '2025-07-21'
   link: https://doi.org/g9vfsq
   image: images/publications/Cognitive2025.jpg
   plugin: sources.py
@@ -41,8 +41,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mice.13354
-  title: "An adversarial diverse deep ensemble approach for surrogate\u2010based traffic\
-    \ signal optimization"
+  title: An adversarial diverse deep ensemble approach for surrogate-based traffic signal optimization
   authors:
   - Zhixian Tang
   - Ruoheng Wang
@@ -93,8 +92,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mice.13134
-  title: "On the role of time\u2010of\u2010use electricity price in charge scheduling\
-    \ for electric bus fleets"
+  title: On the role of time-of-use electricity price in charge scheduling for electric bus fleets
   authors:
   - Le Zhang
   - Yadong Wang
@@ -729,7 +727,7 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/g9w9m8
-  image: images/publications/Fan/Schedule2020.jpg
+  image: images/publications/Fan/Schedule2020.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1155/2020/8872748
@@ -846,6 +844,6 @@
   publisher: Journal of Transportation Technologies
   date: '2012-01-01'
   link: https://doi.org/g9w9nf
-  image: images/publications/Fan/Modeling2012.jpg
+  image: images/publications/Fan/Modeling2012.png
   plugin: sources.py
   file: sources.yaml
