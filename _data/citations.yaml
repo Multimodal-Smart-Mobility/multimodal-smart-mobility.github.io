@@ -549,6 +549,50 @@
   image: images/publications/On2011.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2511.21295
+  title: 'Fly-by transit: A novel door-to-door shared mobility with minimal stops'
+  authors:
+  - Wenbo Fan
+  - Weihua Gu
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbfbj6
+  image: images/publications/Fan/Fly2025.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2025.104512
+  title: A continuum approximation approach for designing corridor-based heterogeneous
+    transit service using modular autonomous vehicles
+  authors:
+  - Xiaoling Luo
+  - Wenbo Fan
+  - Yongxiang Zhang
+  - "Andrea D\u2019Ariano"
+  - Tommaso Bosi
+  - Yuan Liu
+  - Wei Wu
+  - Xiaofeng Li
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2026-01-01'
+  link: https://doi.org/hbfbj7
+  image: images/publications/Fan/Acontinue2025.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/atr/3607727
+  title: "On the Application of Probabilistic Route Choice Models to Urban Rail Transit\
+    \ Networks Containing Small\u2010Scale OD Trip Data"
+  authors:
+  - Wei Zhu
+  - Changyue Xu
+  - Amr M. Wahaballa
+  - Wenbo Fan
+  - Seham Hemdan
+  publisher: Journal of Advanced Transportation
+  date: '2025-01-01'
+  link: https://doi.org/hbfbj8
+  image: images/publications/Fan/Onthe2025.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.trc.2025.105245
   title: Optimal design of on-demand modular feeder transit services
   authors:
