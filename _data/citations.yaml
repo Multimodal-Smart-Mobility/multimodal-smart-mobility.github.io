@@ -555,7 +555,7 @@
   - Wenbo Fan
   - Weihua Gu
   publisher: arXiv
-  date: '2025-11-26'
+  date: '2025-01-01'
   link: https://doi.org/hbfbj6
   image: images/publications/Fan/Fly2025.png
   plugin: sources.py
@@ -579,8 +579,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1155/atr/3607727
-  title: 'On the Application of Probabilistic Route Choice Models to Urban Rail Transit\
-    \ Networks Containing Small-Scale OD Trip Data'
+  title: "On the Application of Probabilistic Route Choice Models to Urban Rail Transit\
+    \ Networks Containing Small\u2010Scale OD Trip Data"
   authors:
   - Wei Zhu
   - Changyue Xu
@@ -588,7 +588,7 @@
   - Wenbo Fan
   - Seham Hemdan
   publisher: Journal of Advanced Transportation
-  date: '2025-08-18'
+  date: '2025-01-01'
   link: https://doi.org/hbfbj8
   image: images/publications/Fan/Onthe2025.jpg
   plugin: sources.py
