@@ -41,8 +41,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mice.13354
-  title: "An adversarial diverse deep ensemble approach for surrogate\u2010based traffic\
-    \ signal optimization"
+  title: 'An adversarial diverse deep ensemble approach for surrogate-based traffic signal optimization'
   authors:
   - Zhixian Tang
   - Ruoheng Wang
@@ -75,7 +74,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2024-07-01'
   link: https://doi.org/g9v7mk
-  image: null
+  image: images/publications/Fan/Optimal2024.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tre.2024.103545
@@ -93,8 +92,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mice.13134
-  title: "On the role of time\u2010of\u2010use electricity price in charge scheduling\
-    \ for electric bus fleets"
+  title: 'On the role of time-of-use electricity price in charge scheduling for electric bus fleets'
   authors:
   - Le Zhang
   - Yadong Wang
@@ -131,6 +129,18 @@
   publisher: 'Transportation Research Part C: Emerging Technologies'
   date: '2023-09-01'
   link: https://doi.org/gtwtwg
+  image: images/publications/Efficient2023.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tra.2023.103702
+  title: Impacts of bus overtaking policies on the capacity of bus stops
+  authors:
+  - Sangen Hu
+  - Minyu Shen
+  - Weihua Gu
+  publisher: 'Transportation Research Part A: Policy and Practice'
+  date: '2023-07-01'
+  link: https://doi.org/g9tc2d
   image: images/publications/Impacts2023.jpg
   plugin: sources.py
   file: sources.yaml
@@ -209,7 +219,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2021-08-01'
   link: https://doi.org/gn3sq5
-  image: null
+  image: images/publications/Fan/Planning2021_1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2021.103211
@@ -281,7 +291,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2020-01-01'
   link: https://doi.org/ghtvk6
-  image: null
+  image: images/publications/Fan/Optimal2020_2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2019.10.006
@@ -338,7 +348,7 @@
   publisher: 'Transportation Research Part B: Methodological'
   date: '2018-05-01'
   link: https://doi.org/gdmj3w
-  image: null
+  image: images/publications/Fan/Optimal2018.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trb.2017.09.014
@@ -547,7 +557,7 @@
   publisher: 'Transportation Research Part C: Emerging Technologies'
   date: '2025-09-01'
   link: https://doi.org/g9w9mv
-  image: null
+  image: images/publications/Fan/Optimal2025.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2025.105181
@@ -560,7 +570,7 @@
   publisher: 'Transportation Research Part C: Emerging Technologies'
   date: '2025-09-01'
   link: https://doi.org/g9w9mw
-  image: null
+  image: images/publications/Fan/Novel2025.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2024.124180
@@ -574,7 +584,7 @@
   publisher: Expert Systems with Applications
   date: '2024-11-01'
   link: https://doi.org/g9w9mx
-  image: null
+  image: images/publications/Fan/Optimizing2024.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2024.104739
@@ -590,7 +600,7 @@
   publisher: 'Transportation Research Part C: Emerging Technologies'
   date: '2024-09-01'
   link: https://doi.org/g9fqdj
-  image: null
+  image: images/publications/Fan/Macroscopic2024.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tre.2023.103114
@@ -601,7 +611,7 @@
   publisher: 'Transportation Research Part E: Logistics and Transportation Review'
   date: '2023-06-01'
   link: https://doi.org/g9w9mz
-  image: null
+  image: images/publications/Fan/Joint2023.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1061/(ASCE)UP.1943-5444.0000786
@@ -616,19 +626,7 @@
   publisher: Journal of Urban Planning and Development
   date: '2022-03-01'
   link: https://doi.org/g9w9m2
-  image: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:/10.1016/j.trc.2021.103366
-  title: Joint design of shared-bike and transit services in corridors
-  authors:
-  - Xiaoling Luo
-  - Weihua Gu
-  - Wenbo Fan
-  publisher: 'Transportation Research Part C: Emerging Technologies'
-  date: '2021-11-01'
-  link: https://doi.org/gn3sqf
-  image: null
+  image: images/publications/Fan/Bilevel2022.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tre.2021.102600
@@ -641,7 +639,7 @@
   publisher: 'Transportation Research Part E: Logistics and Transportation Review'
   date: '2022-02-01'
   link: https://doi.org/g9w9m3
-  image: null
+  image: images/publications/Fan/Managing2022.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TITS.2021.3054678
@@ -655,7 +653,7 @@
   publisher: IEEE Transactions on Intelligent Transportation Systems
   date: '2021-04-01'
   link: https://doi.org/g9w9m4
-  image: null
+  image: images/publications/Fan/Optimal2021.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.aap.2020.105936
@@ -672,7 +670,7 @@
   publisher: Accident Analysis &amp; Prevention
   date: '2021-02-01'
   link: https://doi.org/g9w9m5
-  image: null
+  image: images/publications/Fan/Bayesian2021.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tre.2020.102119
@@ -683,7 +681,7 @@
   publisher: 'Transportation Research Part E: Logistics and Transportation Review'
   date: '2021-01-01'
   link: https://doi.org/gn3sr2
-  image: null
+  image: images/publications/Fan/Planning2021_2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/19439962.2019.1580326
@@ -698,7 +696,7 @@
   publisher: Journal of Transportation Safety &amp; Security
   date: '2019-03-22'
   link: https://doi.org/g9w9m6
-  image: null
+  image: images/publications/Fan/Examining2019.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/17457300.2020.1746814
@@ -714,7 +712,7 @@
   publisher: International Journal of Injury Control and Safety Promotion
   date: '2020-04-01'
   link: https://doi.org/g9w9m7
-  image: null
+  image: images/publications/Fan/Amachine2020.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2020.2996084
@@ -729,7 +727,7 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/g9w9m8
-  image: null
+  image: images/publications/Fan/Schedule2020.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1155/2020/8872748
@@ -743,7 +741,7 @@
   publisher: Journal of Advanced Transportation
   date: '2020-09-07'
   link: https://doi.org/g66d28
-  image: null
+  image: images/publications/Fan/Optimal2020_1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0195927
@@ -756,7 +754,7 @@
   publisher: PLOS ONE
   date: '2018-05-01'
   link: https://doi.org/g9w9m9
-  image: null
+  image: images/publications/Fan/Modeling2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3141/2628-09
@@ -770,7 +768,7 @@
     Board'
   date: '2017-01-01'
   link: https://doi.org/g9w9nb
-  image: null
+  image: images/publications/Fan/Use2017.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.aap.2015.09.006
@@ -784,7 +782,7 @@
   publisher: Accident Analysis &amp; Prevention
   date: '2016-10-01'
   link: https://doi.org/f842fq
-  image: null
+  image: images/publications/Fan/Safety2016.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tranpol.2016.03.001
@@ -797,7 +795,7 @@
   publisher: Transport Policy
   date: '2016-05-01'
   link: https://doi.org/g9w9nc
-  image: null
+  image: images/publications/Fan/Modeling2016.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/15389588.2014.936012
@@ -823,7 +821,7 @@
   publisher: Journal of Urban Planning and Development
   date: '2014-09-01'
   link: https://doi.org/gjsj2q
-  image: null
+  image: images/publications/Fan/Bilevel2014.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tranpol.2013.09.002
@@ -834,7 +832,7 @@
   publisher: Transport Policy
   date: '2013-11-01'
   link: https://doi.org/f5m49f
-  image: null
+  image: images/publications/Fan/Tradable2013.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.4236/jtts.2012.23028
@@ -846,6 +844,6 @@
   publisher: Journal of Transportation Technologies
   date: '2012-01-01'
   link: https://doi.org/g9w9nf
-  image: null
+  image: images/publications/Fan/Modeling2012.jpg
   plugin: sources.py
   file: sources.yaml
