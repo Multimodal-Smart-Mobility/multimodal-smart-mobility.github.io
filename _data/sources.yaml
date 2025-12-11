@@ -85,6 +85,12 @@
   image: images/publications/On2011.jpg
 
 # Dr Fan
+- id: doi:10.48550/arXiv.2511.21295
+  image: images/publications/Fan/Fly2025.png
+- id: doi:10.1016/j.tre.2025.104512
+  image: images/publications/Fan/Acontinue2025.jpg
+- id: doi:10.1155/atr/3607727
+  image: images/publications/Fan/Onthe2025.jpg
 - id: doi:10.1016/j.trc.2025.105245
   image: images/publications/Fan/Optimal2025.jpg
 - id: doi:10.1016/j.trc.2025.105181
