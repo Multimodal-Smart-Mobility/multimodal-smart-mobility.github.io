@@ -13,14 +13,14 @@ links:
   email: l-i.zhen@connect.polyu.hk
   profile: 
 
-bg: M.Sc.(BJTU), B.Eng. (WHUT)
-time: 2022 - Present 
+bg: Ph.D (PolyU), M.Sc.(BJTU), B.Eng. (WHUT)
+time: 2025 - Present 
 ---
 
 <!--  Add a short self introduction here -->
 <!-- Like Research Areas -->
 
-Zhen Li received her M.Sc. in Transportation Planning and Management from Beijing Jiaotong University in 2022, and her B.Sc. in Traffic Engineering from Wuhan University of Technology in 2019. She is currently a Ph.D. student in the Department of Electrical and Electronic Engineering at the Hong Kong Polytechnic University.
+Zhen Li her Ph.D. degree from the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University in 2025, her M.Sc. in Transportation Planning and Management from Beijing Jiaotong University in 2022, and her B.Sc. in Traffic Engineering from Wuhan University of Technology in 2019. 
 
 **Research Areas**
 Public Transportation Systems Planning, Design and Operations; Multimodal Transportation Planning; UAV network planning and operations.

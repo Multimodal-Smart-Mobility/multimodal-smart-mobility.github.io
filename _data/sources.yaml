@@ -19,9 +19,9 @@
   image: images/publications/Optimal_yang2023_2.jpg
 - id: doi:10.1016/j.trc.2023.104269
   image: images/publications/Efficient2023.jpg
-- id: doi:10.1016/j.trc.2023.104269
+- id: doi:10.1016/j.tra.2023.103702
   image: images/publications/Impacts2023.jpg
-#- id: doi:10.16097/j.cnki.1009-6744.2023.03.027
+#- id: doi:10.16097/j.cnki.1009-6744.2023.03.027　
 #  image: images/publications/Simulation2023.jpg
 - id: doi:10.1016/J.TRC.2023.104054
   image: images/publications/Condition-based2023.jpg
@@ -86,56 +86,54 @@
 
 # Dr Fan
 - id: doi:10.1016/j.trc.2025.105245
-  image: 
+  image: images/publications/Fan/Optimal2025.jpg
 - id: doi:10.1016/j.trc.2025.105181
-  image: 
+  image: images/publications/Fan/Novel2025.jpg
 - id: doi:10.1016/j.trb.2024.102964
-  image: 
+  image: images/publications/Fan/Optimal2024.jpg
 - id: doi:10.1016/j.eswa.2024.124180
-  image: 
+  image: images/publications/Fan/Optimizing2024.jpg
 - id: doi:10.1016/j.trc.2024.104739
-  image: 
+  image: images/publications/Fan/Macroscopic2024.jpg
 - id: doi:10.1016/j.tre.2023.103114
-  image: 
+  image: images/publications/Fan/Joint2023.jpg
 - id: doi:10.1061/(ASCE)UP.1943-5444.0000786
-  image: 
-- id: doi:/10.1016/j.trc.2021.103366
-  image: 
+  image: images/publications/Fan/Bilevel2022.jpg
 - id: doi:10.1016/j.tre.2021.102600
-  image: 
+  image: images/publications/Fan/Managing2022.jpg
 - id: doi:10.1016/j.trb.2021.06.008
-  image: 
+  image: images/publications/Fan/Planning2021_1.jpg
 - id: doi:10.1109/TITS.2021.3054678
-  image: 
+  image: images/publications/Fan/Optimal2021.png
 - id: doi:10.1016/j.aap.2020.105936
-  image: 
+  image: images/publications/Fan/Bayesian2021.jpg
 - id: doi:10.1016/j.tre.2020.102119
-  image: 
+  image: images/publications/Fan/Planning2021_2.jpg
 - id: doi:10.1080/19439962.2019.1580326
-  image: 
+  image: images/publications/Fan/Examining2019.jpg
 - id: doi:10.1080/17457300.2020.1746814
-  image: 
+  image: images/publications/Fan/Amachine2020.jpg
 - id: doi:10.1109/ACCESS.2020.2996084
-  image: 
+  image: images/publications/Fan/Schedule2020.png
 - id: doi:10.1155/2020/8872748
-  image: 
+  image: images/publications/Fan/Optimal2020_1.png
 - id: doi:10.1016/j.trb.2019.11.003
-  image: 
+  image: images/publications/Fan/Optimal2020_2.jpg
 - id: doi:10.1371/journal.pone.0195927
-  image: 
+  image: images/publications/Fan/Modeling2018.png
 - id: doi:10.1016/j.trb.2018.03.007
-  image: 
+  image: images/publications/Fan/Optimal2018.jpg
 - id: doi:10.3141/2628-09
-  image: 
+  image: images/publications/Fan/Use2017.png
 - id: doi:10.1016/j.aap.2015.09.006
-  image: 
+  image: images/publications/Fan/Safety2016.jpg
 - id: doi:10.1016/j.tranpol.2016.03.001
-  image: 
+  image: images/publications/Fan/Modeling2016.jpg
 - id: doi:10.1080/15389588.2014.936012
   image: 
 - id: doi:10.1061/(ASCE)UP.1943-5444.0000178
-  image: 
+  image: images/publications/Fan/Bilevel2014.jpg
 - id: doi:10.1016/j.tranpol.2013.09.002
-  image: 
+  image: images/publications/Fan/Tradable2013.jpg
 - id: doi:10.4236/jtts.2012.23028
-  image: 
+  image: images/publications/Fan/Modeling2012.png
