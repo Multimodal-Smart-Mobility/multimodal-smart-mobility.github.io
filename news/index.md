@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-**June 2025** \
+**July 2025** \
 Our team attended the 16th International Conference on Advanced Systems in Public Transport **(CASPT2025)** in Kyoto, Japan, where we delivered three oral presentations and two poster presentations.
 
 **Dec 2025** \
