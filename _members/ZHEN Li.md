@@ -1,9 +1,9 @@
 ---
 name: ZHEN Li
 image: images/team/ZHEN_Li.jpg
-role: phd
+role: postdoc
 affiliation: 
-order: 1
+order: 2
 
 links:
   home-page: 
