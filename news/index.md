@@ -9,4 +9,5 @@ nav:
 
 {% include section.html %}
 
-**2025/08**    Our lab website is built!
+**Dec 2025 -- Congratulations!** \
+Our PhD student MAO Haoyang has been awarded the **2025 NSFC Young Students’ Basic Research Project (PhD Student)** for his work **Optimization of Resilient Feeder Service using Modular Autonomous Buses**. Project period: 2026–2027. Amount awarded: 300k RMB.
