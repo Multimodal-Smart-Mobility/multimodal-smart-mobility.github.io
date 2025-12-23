@@ -16,4 +16,4 @@ Our team attended the 16th International Conference on Advanced Systems in Publi
 Our team participated in the 29th Hong Kong Society for Transportation Studies **(HKSTS2025)**, presenting three oral presentations on our recent research.
 
 **December 2025 -- Congratulations!** \
-Our PhD student MAO Haoyang has been awarded the **2025 NSFC Young Students’ Basic Research Project (PhD Student)** for his work **Optimization of Resilient Feeder Service using Modular Autonomous Buses**. Project period: 2026–2027. Amount awarded: 300k RMB.
+Our PhD student MAO Haoyang has been awarded the **2025 NSFC Young Students’ Basic Research Project (PhD Student)** for his work **Optimization of Resilient Feeder Service using Modular Autonomous Buses**. Project period: 2026–2027. Amount awarded: 300k RMB. [Read more](https://www.polyu.edu.hk/gs/news-and-events/news/2025/1216_nsfc-youth-student-basic-research-project-grant/?sc_lang=en)
