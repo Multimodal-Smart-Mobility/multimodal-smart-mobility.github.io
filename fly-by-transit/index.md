@@ -7,7 +7,7 @@ nav:
 
 # Fly-by Transit
 
-This page embeds the standalone interactive page for a unified site navigation experience.
+We present the design of Fly-By Transit (FBT), a novel mobility system that utilizes modular mini-electric vehicles (mini-EVs) to provide door-to-door shared transportation with minimal intermediate stops.
 
 <div style="position: relative; width: 100%; height: 78vh; min-height: 680px; border: 1px solid #d9d9d9; border-radius: 8px; overflow: hidden; background: #ffffff;">
   <iframe
