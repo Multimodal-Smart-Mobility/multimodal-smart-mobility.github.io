@@ -14,12 +14,12 @@ nav:
 {% include list_team.html data="members" component="portrait" filter="role == 'postdoc'" %}
 #### Ph.D./MPhil Student
 {% include list_team.html data="members" component="portrait" filter="role == 'phd'" %}
-#### Research/Project Assistant
+<!-- #### Research/Project Assistant
 {% include list_team.html data="members" component="portrait" filter="role == 'ra'" %}
 #### Undergraduate Student
 {% include list_team.html data="members" component="portrait" filter="role == 'under'" %}
 #### Visiting Scholar/Student
-{% include list_team.html data="members" component="portrait" filter="role == 'visiting'" %}
+{% include list_team.html data="members" component="portrait" filter="role == 'visiting'" %} -->
 #### Alumni
 {% include list_team.html data="members" component="portrait" filter="role == 'alumni'" %}
 ##### Postdoctoral Fellows
