@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.trb.2026.103431
+  title: 'Optimal demand-responsive connector design: Comparing fully-flexible routing
+    and semi-flexible routing strategies'
+  authors:
+  - Li Zhen
+  - Weihua Gu
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2026-04-01'
+  link: https://doi.org/hbx4fz
+  image: images/publications/Optimal_zhen2026.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1287/trsc.2024.0890
   title: Cognitive Hierarchy in Day-to-Day Network Flow Dynamics
   authors:
