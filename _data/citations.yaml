@@ -1,5 +1,51 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.trc.2026.105747
+  title: Substitution or complement? Uncovering the interplay between ride-hailing
+    services and public transit
+  authors:
+  - Zhicheng Jin
+  - Xiaotong Sun
+  - Li Zhen
+  - Weihua Gu
+  - Huizhao Tu
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2026-08-01'
+  link: https://doi.org/hb75jf
+  image: images/publications/Substitution2026.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tra.2025.104752
+  title: 'Breaking a harmful feedback loop: Mitigating bus queuing and headway irregularity
+    on busy corridors'
+  authors:
+  - Minyu Shen
+  - Weihua Gu
+  - Michael J. Cassidy
+  - Yongjie Lin
+  - Wei Ni
+  publisher: 'Transportation Research Part A: Policy and Practice'
+  date: '2026-02-01'
+  link: https://doi.org/hb75jg
+  image: images/publications/Breaking2026.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.apenergy.2025.127307
+  title: Charging electric buses with solar power under varying environmental temperatures
+    and sunlight conditions
+  authors:
+  - Jiacheng Liu
+  - Xiuyu Hu
+  - Chi Xie
+  - Xiaolei Ma
+  - Weihua Gu
+  - Xiaowen Fu
+  publisher: Applied Energy
+  date: '2026-03-01'
+  link: https://doi.org/hb75jh
+  image: images/publications/Charging2026.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.trb.2026.103431
   title: 'Optimal demand-responsive connector design: Comparing fully-flexible routing
     and semi-flexible routing strategies'
