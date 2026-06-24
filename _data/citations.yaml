@@ -607,6 +607,17 @@
   image: images/publications/On2011.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/OJITS.2026.3705377
+  title: 'Fly-by transit: A novel door-to-door shared mobility with minimal stops'
+  authors:
+  - Wenbo Fan
+  - Weihua Gu
+  publisher: IEEE Open Journal of Intelligent Transportation Systems
+  date: '2026-01-01'
+  link: https://doi.org/hb8j6s
+  image: images/publications/Fan/fly_by_transit2026.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2511.21295
   title: 'Fly-by transit: A novel door-to-door shared mobility with minimal stops'
   authors:
