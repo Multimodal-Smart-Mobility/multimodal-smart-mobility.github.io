@@ -93,6 +93,8 @@
   image: images/publications/On2011.jpg
 
 # Dr Fan
+- id: doi:10.1109/OJITS.2026.3705377
+  image: images/publications/Fan/fly_by_transit2026.png
 - id: doi:10.48550/arXiv.2511.21295
   image: images/publications/Fan/Fly2025.png
 - id: doi:10.1016/j.tre.2025.104512
