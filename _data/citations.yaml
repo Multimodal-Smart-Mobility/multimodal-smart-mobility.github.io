@@ -1,5 +1,62 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.eswa.2026.134154
+  title: Optimal service and charging scheduling of electric vehicle demand-responsive
+    connectors considering multiple trips
+  authors:
+  - Qiang Zeng
+  - Hao An
+  - Minyu Shen
+  - Yu Li
+  - Weihua Gu
+  publisher: Expert Systems with Applications
+  date: '2027-01-01'
+  link: https://doi.org/hchwbc
+  image: images/publications/Gu/Optimal2026.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tre.2026.105191
+  title: Multi-objective optimization of truck-drone collaborative forestry monitoring
+  authors:
+  - Jiantao Zhang
+  - Haosheng Lin
+  - Weitiao Wu
+  - Weihua Gu
+  publisher: 'Transportation Research Part E: Logistics and Transportation Review'
+  date: '2027-01-01'
+  link: https://doi.org/hchwbd
+  image: images/publications/Gu/Multi2026.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trc.2026.105965
+  title: Surrogate-based dynamic network traffic signal optimization via a data-driven
+    link dynamics model
+  authors:
+  - Zhixian Tang
+  - Weihua Gu
+  - Edward Chung
+  - Lijun Sun
+  publisher: 'Transportation Research Part C: Emerging Technologies'
+  date: '2026-12-01'
+  link: https://doi.org/hchwbf
+  image: images/publications/Gu/Surrogate2026.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.trd.2026.105516
+  title: Comparative energy consumption analysis of electric and hydrogen buses using
+    real-world data
+  authors:
+  - Xiaokuan Zhao
+  - Zhicheng Jin
+  - Weihua Gu
+  - Wenbo Fan
+  - Chi Xie
+  publisher: 'Transportation Research Part D: Transport and Environment'
+  date: '2026-10-01'
+  link: https://doi.org/hchwbg
+  image: images/publications/Gu/Comparative2026.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.trc.2026.105747
   title: Substitution or complement? Uncovering the interplay between ride-hailing
     services and public transit
@@ -605,6 +662,22 @@
   date: '2011-05-01'
   link: https://doi.org/cfhpzb
   image: images/publications/On2011.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:doi.org/10.1080/23249935.2026.2699985
+  title: Soft-target dispatch strategies for transit services with uncertain passenger
+    arrivals
+  authors:
+  - Shuguang Wang
+  - Wenbo Fan
+  - Xiaotian Yan
+  - Meng Xu
+  - Yimeng Zhang
+  - Zhao Zhang
+  publisher: 'Transportmetrica A: Transport Science'
+  date: '2026-07-08'
+  link: https://doi.org/hchwbh
+  image: images/publications/Fan/Soft2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/OJITS.2026.3705377
