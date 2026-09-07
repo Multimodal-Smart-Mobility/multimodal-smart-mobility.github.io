@@ -3,7 +3,7 @@ name: KWAN Ka Yan Karen
 image: images/team/KWAN_KaYanKaren.JPG
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: 
-order: 5
+order: 6
 
 links:
   home-page: 
