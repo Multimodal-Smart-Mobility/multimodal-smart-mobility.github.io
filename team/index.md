@@ -29,7 +29,9 @@ nav:
 4. **Le Zhang** (Associate Professor, Nanjing University of Science & Technology) - Period: 02/2019-09/2019  
 5. **Yu Mei** (Baidu) - Period: 02/2019-09/2019  
 6. **Minyu Shen** (Associate Professor, Southwestern University of Finance and Economics) - Period: 10/2020-08/2021  
-7. **Jie Ma** (Postdoctoral Fellow, Southeast University) - Period: 11/2023-11/2025  
+7. **Jie Ma** (Professor, Nanjing University of Aeronautics and Astronautics) - Period: 11/2023-11/2025 
+8. **Jiemin Chen** (Huawei) - Period: 03/2025-03/2026
+9. **Bai Li** (Postdoc, Nanyang Technological University) - Period: 03/2026-06/2026
 
 ##### Research Postgraduate Students
 1. **Nathalie Saade** (Meta) - PhD (2017), University of California, Berkeley; Co-supervised by Dr GU and Prof. Michael Cassidy  
