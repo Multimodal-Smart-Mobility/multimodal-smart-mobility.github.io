@@ -3,7 +3,7 @@ name: LI Yu
 image: images/team/LI_Yu.png
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: 
-order: 4
+order: 3
 
 links:
   home-page: 

@@ -3,7 +3,7 @@ name: JIN Zhicheng
 image: images/team/JIN_Zhicheng.jpg
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: 
-order: 3
+order: 2
 
 links:
   home-page: 
