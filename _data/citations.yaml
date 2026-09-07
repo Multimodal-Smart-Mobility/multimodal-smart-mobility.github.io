@@ -12,7 +12,7 @@
   publisher: Expert Systems with Applications
   date: '2027-01-01'
   link: https://doi.org/hchwbc
-  image: images/publications/Gu/Optimal2026.png
+  image: images/publications/Optimal2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tre.2026.105191
@@ -25,7 +25,7 @@
   publisher: 'Transportation Research Part E: Logistics and Transportation Review'
   date: '2027-01-01'
   link: https://doi.org/hchwbd
-  image: images/publications/Gu/Multi2026.png
+  image: images/publications/Multi2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2026.105965
@@ -39,7 +39,7 @@
   publisher: 'Transportation Research Part C: Emerging Technologies'
   date: '2026-12-01'
   link: https://doi.org/hchwbf
-  image: images/publications/Gu/Surrogate2026.png
+  image: images/publications/Surrogate2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trd.2026.105516
@@ -54,7 +54,7 @@
   publisher: 'Transportation Research Part D: Transport and Environment'
   date: '2026-10-01'
   link: https://doi.org/hchwbg
-  image: images/publications/Gu/Comparative2026.png
+  image: images/publications/Comparative2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.trc.2026.105747
