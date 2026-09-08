@@ -32,7 +32,7 @@ Dr. Fan has successfully supervised 25 master’s students and 2 Ph.D. candidate
 - Bachelor of Transportation Engineering, Southwest Jiaotong University
 - Doctor of Philosophy, Southwest Jiaotong University
 
-**Research Areas**
+**Research Areas** \
 Developing foundational theories and algorithms for "Advanced technology-driven Public Transportation (AtPT)"
 Deliver Rapid, Reliable, and Seamless (RRS) urban transit services through the integration of emerging mobility solutions—including autonomous driving, modular electric vehicles, ride sharing/pooling, and shared micro‑mobility
 
