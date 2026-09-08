@@ -20,7 +20,7 @@ time: 2026 - Present
 <!--  Add a short self introduction here -->
 <!-- Like Research Areas -->
 
-Karen received the B.Eng. and M.Sc. degrees from The University of Hong Kong (HKU) in 2020 and 2023 respectively. She is currently pursuing a EngD degree in the Department of Electrical and Electronic Engineering at the Hong Kong Polytechnic University.
+Karen received the B.Eng. and M.Sc. degrees from The University of Hong Kong (HKU) in 2020 and 2023 respectively. She is currently pursuing a EngD degree in the Department of Electrical and Electronic Engineering at the Hong Kong Polytechnic University while working as an Engineer in the HKSAR Government.
 
 **Research Areas**
 Infrastructure Project Management
