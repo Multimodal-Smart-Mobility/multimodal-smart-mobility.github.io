@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 
 **September 2026 -- Welcome!** \
-A warm welcome to our new members, WANG Xiaoyun, LIU Siyuan, KWAN Ka Yan Karen, and SHEN Yihang, joining the **MSM Lab**! 
+A warm welcome to our new members, **WANG Xiaoyun**, **LIU Siyuan**, **KWAN Ka Yan Karen**, and **SHEN Yihang**, joining the **MSM Lab**! 
 
 
 **August 2026 -- Congratulations!** \
