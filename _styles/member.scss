@@ -1,0 +1,22 @@
+---
+---
+
+// Keep the entire biography beside the portrait, even below its bottom edge.
+.member-content {
+  display: flow-root;
+}
+
+// Align top-level bullet text with the biography; markers sit in the gutter.
+.member-content > ul {
+  padding-left: 0;
+}
+
+.member-content > ul > li {
+  padding-left: 0;
+}
+
+@media (max-width: 600px) {
+  .member-content > ul {
+    padding-left: 20px;
+  }
+}
