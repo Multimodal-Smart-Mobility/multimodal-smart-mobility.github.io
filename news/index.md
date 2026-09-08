@@ -19,6 +19,7 @@ Our team delivered six presentations at the 17th International Workshop on Compu
 **July 2026** \
 We visited the research teams of Prof. SHEN Mingyu at Southwestern University of Finance and Economics, and Profs. LI Ruijie, XIE Jun, XU Zhandong etc. at Southwest Jiaotong University, delivering presentations on Heterogeneous transit network design and Fly-by Transit.
 
+**July 2026** \
 We attended the 15th Asia-Pacific Conference on Transportation and the Environment **(APTE2026)** Conference held on Jeju Island, South Korea, delivering a presentation on Causal analysis on bus reliability.
 
 **April 2026** \
