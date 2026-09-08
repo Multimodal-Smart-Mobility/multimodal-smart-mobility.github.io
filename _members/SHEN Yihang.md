@@ -1,7 +1,7 @@
 ---
 name: SHEN Yihang
 image: images/team/SHEN_Yihang.jpeg
-role: ms  
+role: phd  
 affiliation: 
 order: 8
 
@@ -14,7 +14,8 @@ links:
   profile: 
 
 bg: B.Eng. (JNU)
-time: 2026 - Present 
+time: 2026 - Present
+affiliation: MPhil
 ---
 
 <!--  Add a short self introduction here -->
