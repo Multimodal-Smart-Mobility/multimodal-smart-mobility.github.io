@@ -3,7 +3,7 @@ name: LIU Siyuan
 image: images/team/LIU_Siyuan.jpg
 role: phd  # pi / postdoc / phd / ms / under / ra / visiting
 affiliation: 
-order: 5
+order: 6
 
 links:
   home-page: 
