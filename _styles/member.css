@@ -1,0 +1,19 @@
+.member-content {
+  display: flow-root;
+}
+
+.member-content > ul {
+  padding-left: 0;
+}
+
+.member-content > ul > li {
+  padding-left: 0;
+}
+
+@media (max-width: 600px) {
+  .member-content > ul {
+    padding-left: 20px;
+  }
+}
+
+/*# sourceMappingURL=member.css.map */
