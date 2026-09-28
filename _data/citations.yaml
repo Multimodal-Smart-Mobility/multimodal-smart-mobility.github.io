@@ -681,7 +681,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/OJITS.2026.3705377
-  title: 'Fly-by transit: A novel door-to-door shared mobility with minimal stops'
+  title: 'Fly-by Transit: A Novel Door-to-Door Shared Mobility With Minimal Stops'
   authors:
   - Wenbo Fan
   - Weihua Gu
