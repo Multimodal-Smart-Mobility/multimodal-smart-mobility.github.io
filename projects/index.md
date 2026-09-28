@@ -56,12 +56,13 @@ Amount awarded: HK$ 700,000.
 ## FAN Wenbo
 
 #### As Principal Investigator
+1. Transport Department (Hong Kong). Smart Traffic Fund, 2026–2028. A Real-Time Bus Dispatching System for Improving Bus Operational Efficiency through Arrival Time and Headway Regulation. Amount awarded: HK$2,527,498.75.
 
-1. Sichuan Science & Technology Program (Grant No. 2020YFH003), 2020– 2022. Prediction and Control of Large-volume Passenger Flow in Urban Rail Transit by Integrating Multiple Data Sources. Amount awarded: 200k RMB
+2. Sichuan Science & Technology Program (Grant No. 2020YFH003), 2020–2022. Prediction and Control of Large-volume Passenger Flow in Urban Rail Transit by Integrating Multiple Data Sources. Amount awarded: 200k RMB
 
-2. National Natural Science Foundation of China (Project No. 51608455), 2017–2019. Continuum Approximation based Transit Network and Station-Area Land Use Integrated Strategic Planning. Amount awarded: 200k RMB.
+3. National Natural Science Foundation of China (Project No. 51608455), 2017–2019. Continuum Approximation based Transit Network and Station-Area Land Use Integrated Strategic Planning. Amount awarded: 200k RMB.
 
-3. Multiple consulting projects for local companies and transportation departments. 500+k RMB.
+4. Multiple consulting projects for local companies and transportation departments. 500+k RMB.
 
 ## Research resrouces
 Open-source simulation platform for on-demand feeder services [here](https://github.com/yxt19981119/SUMO-RPaF)

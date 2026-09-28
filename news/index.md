@@ -9,6 +9,10 @@ nav:
 
 {% include section.html %}
 
+**September 2026 -- Congratulations!** \
+Dr. FAN Wenbo has secured funding from the **Smart Traffic Fund (STF)** of the Hong Kong Transport Department for his project **A Real-Time Bus Dispatching System for Improving Bus Operational Efficiency through Arrival Time and Headway Regulation**. Expected project period: 2026–2028. Amount awarded: **HK$2,527,498.75**. [Read more](https://stf.hkpc.org/zh-hant/psri-139-2606-pr/)
+
+
 **September 2026 -- Welcome!** \
 A warm welcome to our new members, **WANG Xiaoyun**, **LIU Siyuan**, **KWAN Ka Yan Karen**, and **SHEN Yihang**, joining the **MSM Lab**! 
 
