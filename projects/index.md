@@ -67,8 +67,6 @@ Amount awarded: HK$ 700,000.
 ## Research resrouces
 Open-source simulation platform for on-demand feeder services [here](https://github.com/yxt19981119/SUMO-RPaF)
 
-{% include section.html %}
-
 ## Industrial Partners
 
 <div class="industrial-partners">
