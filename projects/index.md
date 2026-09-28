@@ -66,3 +66,22 @@ Amount awarded: HK$ 700,000.
 
 ## Research resrouces
 Open-source simulation platform for on-demand feeder services [here](https://github.com/yxt19981119/SUMO-RPaF)
+
+{% include section.html %}
+
+## Industrial Partners
+
+<div class="industrial-partners">
+  <a class="industrial-partner" href="https://www.citybus.com.hk/">
+    <span class="industrial-partner-logo">
+      <img src="{{ '/images/partners/citybus.png' | relative_url }}" alt="Citybus logo" loading="lazy">
+    </span>
+    <span>Citybus</span>
+  </a>
+  <a class="industrial-partner" href="https://www.nlb.com.hk/">
+    <span class="industrial-partner-logo">
+      <img src="{{ '/images/partners/new-lantao-bus.png' | relative_url }}" alt="New Lantao Bus logo" loading="lazy">
+    </span>
+    <span>New Lantao Bus</span>
+  </a>
+</div>
