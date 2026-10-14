@@ -9,6 +9,35 @@ nav:
 
 We present the design of Fly-By Transit (FBT), a novel mobility system that utilizes modular mini-electric vehicles (mini-EVs) to provide door-to-door shared transportation with minimal intermediate stops.
 
+## Videos
+
+<div class="fly-by-transit-videos">
+  <div class="fly-by-transit-video">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/XDa_NbxV8hA"
+      title="Fly-by Transit video 1"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+    <p><a href="https://www.youtube.com/watch?v=XDa_NbxV8hA" target="_blank" rel="noopener noreferrer">Watch video 1 on YouTube</a></p>
+  </div>
+  <div class="fly-by-transit-video">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/dq1a-Waivp4"
+      title="Fly-by Transit video 2"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+    <p><a href="https://youtu.be/dq1a-Waivp4" target="_blank" rel="noopener noreferrer">Watch video 2 on YouTube</a></p>
+  </div>
+</div>
+
+## Interactive Demonstration
+
 <div style="position: relative; width: 100%; height: 78vh; min-height: 680px; border: 1px solid #d9d9d9; border-radius: 8px; overflow: hidden; background: #ffffff;">
   <iframe
     src="{{ '/fly-by-transit.html' | relative_url }}"

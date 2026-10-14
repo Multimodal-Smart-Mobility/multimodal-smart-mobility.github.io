@@ -1,0 +1,32 @@
+---
+---
+
+.fly-by-transit-videos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin: 32px 0;
+}
+
+.fly-by-transit-video {
+  min-width: 0;
+}
+
+.fly-by-transit-video iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: var(--rounded);
+}
+
+.fly-by-transit-video p {
+  margin: 12px 0 0;
+  text-align: center;
+}
+
+@media (max-width: 750px) {
+  .fly-by-transit-videos {
+    grid-template-columns: 1fr;
+  }
+}
